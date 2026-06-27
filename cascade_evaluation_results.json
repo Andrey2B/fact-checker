@@ -1,0 +1,1588 @@
+{
+  "total": 158,
+  "correct": 124,
+  "accuracy": 0.7848101265822784,
+  "results": [
+    {
+      "id": 1,
+      "text": "Румыния является столицей Бухарест",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 6.027923107147217,
+      "correct": true
+    },
+    {
+      "id": 2,
+      "text": "Гренландия является столицей Нуук",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.638869285583496,
+      "correct": true
+    },
+    {
+      "id": 3,
+      "text": "Наполеон I родился в 1769 году",
+      "category": "дата рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.151090383529663,
+      "correct": true
+    },
+    {
+      "id": 4,
+      "text": "Эфиопия является столицей Аддис-Абеба",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.693716526031494,
+      "correct": true
+    },
+    {
+      "id": 5,
+      "text": "Биг-Бен находится в стране Германия",
+      "category": "страна",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6005580425262451,
+      "correct": true
+    },
+    {
+      "id": 6,
+      "text": "Apple Inc. основана в 1946 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.75,
+      "elapsed": 3.5617778301239014,
+      "correct": true
+    },
+    {
+      "id": 7,
+      "text": "Джордж Гордон Байрон родился в 1788 году",
+      "category": "дата рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.7812204360961914,
+      "correct": true
+    },
+    {
+      "id": 8,
+      "text": "Египет является столицей Каир",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.657639741897583,
+      "correct": true
+    },
+    {
+      "id": 9,
+      "text": "Украина является столицей Киев",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.5729835033416748,
+      "correct": true
+    },
+    {
+      "id": 10,
+      "text": "Бразилия основана в 1822 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.6,
+      "elapsed": 5.254468679428101,
+      "correct": false
+    },
+    {
+      "id": 11,
+      "text": "Диана, принцесса Уэльская умер в 1997 году",
+      "category": "дата смерти",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.029109001159668,
+      "correct": true
+    },
+    {
+      "id": 12,
+      "text": "Украина является столицей Пекин",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.791170597076416,
+      "correct": true
+    },
+    {
+      "id": 13,
+      "text": "искусственный интеллект является тип технологии",
+      "category": "является экземпляром",
+      "ground_truth": "SUPPORTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 2.178065538406372,
+      "correct": false
+    },
+    {
+      "id": 14,
+      "text": "Чехия является столицей Братислава",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.6890249252319336,
+      "correct": true
+    },
+    {
+      "id": 15,
+      "text": "Албания является столицей Тирана",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.622558832168579,
+      "correct": true
+    },
+    {
+      "id": 16,
+      "text": "Apple Inc. основана в 1976 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.0998892784118652,
+      "correct": true
+    },
+    {
+      "id": 17,
+      "text": "Антарктида является материком",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.0359411239624023,
+      "correct": true
+    },
+    {
+      "id": 18,
+      "text": "Биг-Бен является памятник архитектуры",
+      "category": "является экземпляром",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 0.9,
+      "elapsed": 2.2562530040740967,
+      "correct": true
+    },
+    {
+      "id": 19,
+      "text": "Япония является столицей Токио",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.4456849098205566,
+      "correct": true
+    },
+    {
+      "id": 20,
+      "text": "Высота Тадж-Махал составляет 500 метров",
+      "category": "высота",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.9,
+      "elapsed": 1.8398265838623047,
+      "correct": true
+    },
+    {
+      "id": 21,
+      "text": "Лондон основана в 1886 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 2.5247368812561035,
+      "correct": false
+    },
+    {
+      "id": 22,
+      "text": "Apple Inc. происходит из Франция",
+      "category": "страна происхождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.706207036972046,
+      "correct": true
+    },
+    {
+      "id": 23,
+      "text": "Python создан в 1750 году",
+      "category": "год_создания",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.6416499614715576,
+      "correct": false
+    },
+    {
+      "id": 24,
+      "text": "Альберт Эйнштейн имеет гражданство Германия",
+      "category": "гражданство",
+      "ground_truth": "SUPPORTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.6,
+      "elapsed": 3.2221367359161377,
+      "correct": false
+    },
+    {
+      "id": 25,
+      "text": "Токио основана в 0880 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.4358534812927246,
+      "correct": true
+    },
+    {
+      "id": 26,
+      "text": "Людвиг Витгенштейн имеет гражданство Великобритания",
+      "category": "гражданство",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.9621686935424805,
+      "correct": true
+    },
+    {
+      "id": 27,
+      "text": "Гомер написал Илиаду",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.641667127609253,
+      "correct": true
+    },
+    {
+      "id": 28,
+      "text": "Apple Inc. происходит из США",
+      "category": "страна происхождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6873257160186768,
+      "correct": true
+    },
+    {
+      "id": 29,
+      "text": "Высота Статуя Свободы составляет 46 метров",
+      "category": "высота",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.7828700542449951,
+      "correct": true
+    },
+    {
+      "id": 30,
+      "text": "Высота Колизей составляет 48 метров",
+      "category": "высота",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.7970178127288818,
+      "correct": true
+    },
+    {
+      "id": 31,
+      "text": "Франция основана в 1995 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 3.1716644763946533,
+      "correct": false
+    },
+    {
+      "id": 32,
+      "text": "Ибн Хальдун родился в 1955 году",
+      "category": "дата рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.1468729972839355,
+      "correct": true
+    },
+    {
+      "id": 33,
+      "text": "Наполеон I: награда — премия попечительского совета «Грэмми»",
+      "category": "награда",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.264070987701416,
+      "correct": false
+    },
+    {
+      "id": 34,
+      "text": "Альберт Эйнштейн родился в 1879 году",
+      "category": "родился_в",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 4.630339622497559,
+      "correct": true
+    },
+    {
+      "id": 35,
+      "text": "Джордж Гордон Байрон родился в 1819 году",
+      "category": "дата рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.3199121952056885,
+      "correct": true
+    },
+    {
+      "id": 36,
+      "text": "Высота Эйфелева башня составляет 1.77 метров",
+      "category": "высота",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 2.1639137268066406,
+      "correct": true
+    },
+    {
+      "id": 37,
+      "text": "Гренландия является столицей Рейкьявик",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.5895755290985107,
+      "correct": false
+    },
+    {
+      "id": 38,
+      "text": "Людвиг Витгенштейн имеет гражданство США",
+      "category": "гражданство",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.9537606239318848,
+      "correct": true
+    },
+    {
+      "id": 39,
+      "text": "Шекспир написал Гамлета",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.7833747863769531,
+      "correct": true
+    },
+    {
+      "id": 40,
+      "text": "Египет является столицей Аккра",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.68231201171875,
+      "correct": true
+    },
+    {
+      "id": 41,
+      "text": "Альберт Эйнштейн имеет гражданство Бразилия",
+      "category": "гражданство",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.5294971466064453,
+      "correct": true
+    },
+    {
+      "id": 42,
+      "text": "Нил является самой длинной рекой в мире",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.8522231578826904,
+      "correct": true
+    },
+    {
+      "id": 43,
+      "text": "Чехия является столицей Прага",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.4909818172454834,
+      "correct": true
+    },
+    {
+      "id": 44,
+      "text": "Мексика является столицей Мехико",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6706385612487793,
+      "correct": true
+    },
+    {
+      "id": 45,
+      "text": "Литва является столицей Вильнюс",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6638753414154053,
+      "correct": true
+    },
+    {
+      "id": 46,
+      "text": "США основана в 1889 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.5,
+      "elapsed": 3.128194570541382,
+      "correct": false
+    },
+    {
+      "id": 47,
+      "text": "Статуя Свободы является смотровая башня",
+      "category": "является экземпляром",
+      "ground_truth": "REFUTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.6,
+      "elapsed": 2.210041046142578,
+      "correct": false
+    },
+    {
+      "id": 48,
+      "text": "Китай является столицей Пекин",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8494040966033936,
+      "correct": true
+    },
+    {
+      "id": 49,
+      "text": "Босния и Герцеговина является столицей Бразилиа",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.8373596668243408,
+      "correct": true
+    },
+    {
+      "id": 50,
+      "text": "Россия основана в 1125 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.1620771884918213,
+      "correct": true
+    },
+    {
+      "id": 51,
+      "text": "Винсент Ван Гог умер в 1890 году",
+      "category": "дата смерти",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8588852882385254,
+      "correct": true
+    },
+    {
+      "id": 52,
+      "text": "IBM находится в стране США",
+      "category": "страна",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6657500267028809,
+      "correct": true
+    },
+    {
+      "id": 53,
+      "text": "Великобритания является столицей Лондон",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 0.8,
+      "elapsed": 1.9601829051971436,
+      "correct": true
+    },
+    {
+      "id": 54,
+      "text": "Мария Склодовская-Кюри умер в 1600 году",
+      "category": "дата смерти",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.94077467918396,
+      "correct": true
+    },
+    {
+      "id": 55,
+      "text": "Высота Колизей составляет 500 метров",
+      "category": "высота",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.9039053916931152,
+      "correct": true
+    },
+    {
+      "id": 56,
+      "text": "Высота Бранденбургские ворота составляет 1.77 метров",
+      "category": "высота",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.9616429805755615,
+      "correct": false
+    },
+    {
+      "id": 57,
+      "text": "Наполеон I умер в 1821 году",
+      "category": "дата смерти",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.2171099185943604,
+      "correct": true
+    },
+    {
+      "id": 58,
+      "text": "Альберт Эйнштейн разработал Теория относительности",
+      "category": "разработал",
+      "ground_truth": "SUPPORTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 3.412853956222534,
+      "correct": false
+    },
+    {
+      "id": 59,
+      "text": "Мексика является столицей Брюссель",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.8206768035888672,
+      "correct": true
+    },
+    {
+      "id": 60,
+      "text": "Мария Склодовская-Кюри умер в 1934 году",
+      "category": "дата смерти",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8617444038391113,
+      "correct": true
+    },
+    {
+      "id": 61,
+      "text": "Высота Виктория составляет 168 метров",
+      "category": "высота",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.8,
+      "elapsed": 1.8333475589752197,
+      "correct": true
+    },
+    {
+      "id": 62,
+      "text": "Нью-Йорк находится в стране США",
+      "category": "страна",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.7592592239379883,
+      "correct": true
+    },
+    {
+      "id": 63,
+      "text": "Амазонка является самой полноводной рекой",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.768904209136963,
+      "correct": true
+    },
+    {
+      "id": 64,
+      "text": "Эверест является высочайшей вершиной мира",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.8953680992126465,
+      "correct": true
+    },
+    {
+      "id": 65,
+      "text": "Вторая мировая война: местонахождение — внешняя часть Солнечной системы",
+      "category": "местонахождение",
+      "ground_truth": "REFUTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 2.4146828651428223,
+      "correct": false
+    },
+    {
+      "id": 66,
+      "text": "Лондон основана в 0047 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 5.430230379104614,
+      "correct": true
+    },
+    {
+      "id": 67,
+      "text": "Нептун является газовая планета",
+      "category": "является экземпляром",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.0603456497192383,
+      "correct": true
+    },
+    {
+      "id": 68,
+      "text": "Python является язык функционального программирования",
+      "category": "является экземпляром",
+      "ground_truth": "SUPPORTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.6,
+      "elapsed": 2.7101519107818604,
+      "correct": false
+    },
+    {
+      "id": 69,
+      "text": "Джузеппе Верди родился в Москва",
+      "category": "место рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.9,
+      "elapsed": 1.7695198059082031,
+      "correct": true
+    },
+    {
+      "id": 70,
+      "text": "Ибн Хальдун родился в 1332 году",
+      "category": "дата рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.8509318828582764,
+      "correct": true
+    },
+    {
+      "id": 71,
+      "text": "Google основана в 1998 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.0785653591156006,
+      "correct": true
+    },
+    {
+      "id": 72,
+      "text": "Литва является столицей Оттава",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.8151516914367676,
+      "correct": true
+    },
+    {
+      "id": 73,
+      "text": "Турция является столицей Анкара",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6420633792877197,
+      "correct": true
+    },
+    {
+      "id": 74,
+      "text": "Франция основана в 1792 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.209568500518799,
+      "correct": true
+    },
+    {
+      "id": 75,
+      "text": "Москва находится в стране Турция",
+      "category": "страна",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.460988998413086,
+      "correct": true
+    },
+    {
+      "id": 76,
+      "text": "Альберт Эйнштейн родился в 1879 году",
+      "category": "дата рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 4.655407428741455,
+      "correct": true
+    },
+    {
+      "id": 77,
+      "text": "IBM находится в стране Индия",
+      "category": "страна",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.7169005870819092,
+      "correct": false
+    },
+    {
+      "id": 78,
+      "text": "Фёдор Достоевский родился в Москва",
+      "category": "место рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6723403930664062,
+      "correct": true
+    },
+    {
+      "id": 79,
+      "text": "Бранденбургские ворота основана в 1969 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.2778878211975098,
+      "correct": true
+    },
+    {
+      "id": 80,
+      "text": "Диана, принцесса Уэльская умер в 1881 году",
+      "category": "дата смерти",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 2.2044878005981445,
+      "correct": true
+    },
+    {
+      "id": 81,
+      "text": "Высота Виктория составляет 142.24 метров",
+      "category": "высота",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8111462593078613,
+      "correct": true
+    },
+    {
+      "id": 82,
+      "text": "Бранденбургские ворота основана в 1791 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.888082504272461,
+      "correct": true
+    },
+    {
+      "id": 83,
+      "text": "Галилей изобрёл телескоп",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.7582125663757324,
+      "correct": true
+    },
+    {
+      "id": 84,
+      "text": "Python является триумфальная арка",
+      "category": "является экземпляром",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.365560293197632,
+      "correct": false
+    },
+    {
+      "id": 85,
+      "text": "Моцарт написал Реквием",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.7674560546875,
+      "correct": true
+    },
+    {
+      "id": 86,
+      "text": "Германия основана в 1776 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 3.1549885272979736,
+      "correct": false
+    },
+    {
+      "id": 87,
+      "text": "Польша является столицей Каир",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 2.9475948810577393,
+      "correct": true
+    },
+    {
+      "id": 88,
+      "text": "Микеланджело создал скульптуру Давид",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.1292436122894287,
+      "correct": true
+    },
+    {
+      "id": 89,
+      "text": "США основана в 1784 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.1878702640533447,
+      "correct": true
+    },
+    {
+      "id": 90,
+      "text": "Мария Кюри открыла полоний",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.873854637145996,
+      "correct": true
+    },
+    {
+      "id": 91,
+      "text": "Осло основана в 1776 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.183983087539673,
+      "correct": true
+    },
+    {
+      "id": 92,
+      "text": "искусственный интеллект является первый по величине город",
+      "category": "является экземпляром",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.8576622009277344,
+      "correct": false
+    },
+    {
+      "id": 93,
+      "text": "Стамбул является часть объекта всемирного наследия",
+      "category": "является экземпляром",
+      "ground_truth": "REFUTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 2.3488526344299316,
+      "correct": false
+    },
+    {
+      "id": 94,
+      "text": "Высота Билл Гейтс составляет 1.77 метров",
+      "category": "высота",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.9449033737182617,
+      "correct": true
+    },
+    {
+      "id": 95,
+      "text": "Германия является столицей Берлин",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.512561321258545,
+      "correct": true
+    },
+    {
+      "id": 96,
+      "text": "Высота Статуя Свободы составляет 168 метров",
+      "category": "высота",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.8656208515167236,
+      "correct": false
+    },
+    {
+      "id": 97,
+      "text": "Турция является столицей Рейкьявик",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.8564963340759277,
+      "correct": true
+    },
+    {
+      "id": 98,
+      "text": "Босния и Герцеговина является столицей Сараево",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 7.903045177459717,
+      "correct": true
+    },
+    {
+      "id": 99,
+      "text": "Архимед открыл закон вытеснения",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.8158559799194336,
+      "correct": true
+    },
+    {
+      "id": 100,
+      "text": "Квантовая механика была разработана в 20 веке",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.958,
+      "elapsed": 0.01868271827697754,
+      "correct": true
+    },
+    {
+      "id": 101,
+      "text": "Альберт Эйнштейн родился в 1800 году",
+      "category": "родился_в",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 9.389291524887085,
+      "correct": true
+    },
+    {
+      "id": 102,
+      "text": "Фёдор Достоевский родился в 1821 году",
+      "category": "дата рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 9.265584230422974,
+      "correct": false
+    },
+    {
+      "id": 103,
+      "text": "Нью-Йорк находится в стране Бразилия",
+      "category": "страна",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 2.093703031539917,
+      "correct": true
+    },
+    {
+      "id": 104,
+      "text": "Альберт Эйнштейн родился в 1813 году",
+      "category": "дата рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 9.387508630752563,
+      "correct": true
+    },
+    {
+      "id": 105,
+      "text": "Наполеон I родился в 1659 году",
+      "category": "дата рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 4.410037994384766,
+      "correct": true
+    },
+    {
+      "id": 106,
+      "text": "Токио основана в 1868 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 4.455681800842285,
+      "correct": true
+    },
+    {
+      "id": 107,
+      "text": "Эфиопия является столицей Брюссель",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.4669883251190186,
+      "correct": true
+    },
+    {
+      "id": 108,
+      "text": "Высота Эйфелева башня составляет 330 метров метров",
+      "category": "высота",
+      "ground_truth": "SUPPORTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.0035481452941895,
+      "correct": false
+    },
+    {
+      "id": 109,
+      "text": "Виктория родился в 1452 году",
+      "category": "дата рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.3846497535705566,
+      "correct": true
+    },
+    {
+      "id": 110,
+      "text": "Карл Линней разработал систему классификации",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.043592691421509,
+      "correct": true
+    },
+    {
+      "id": 111,
+      "text": "Польша является столицей Варшава",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.0048675537109375,
+      "correct": true
+    },
+    {
+      "id": 112,
+      "text": "Франция является столицей Париж",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8328375816345215,
+      "correct": true
+    },
+    {
+      "id": 113,
+      "text": "Виктория родился в 1819 году",
+      "category": "дата рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.024367332458496,
+      "correct": true
+    },
+    {
+      "id": 114,
+      "text": "Монна Лиза написана Леонардо да Винчи",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.0877935886383057,
+      "correct": true
+    },
+    {
+      "id": 115,
+      "text": "Осло основана в 1048 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 4.535535573959351,
+      "correct": true
+    },
+    {
+      "id": 116,
+      "text": "Наполеон I умер в 1901 году",
+      "category": "дата смерти",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 6.167151212692261,
+      "correct": true
+    },
+    {
+      "id": 117,
+      "text": "Чарльз Дарвин родился в 1809 году",
+      "category": "дата рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 9.146360635757446,
+      "correct": true
+    },
+    {
+      "id": 118,
+      "text": "Джузеппе Верди родился в Италия",
+      "category": "место рождения",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6090540885925293,
+      "correct": true
+    },
+    {
+      "id": 119,
+      "text": "Фёдор Достоевский родился в Мариинская больница для бедных",
+      "category": "место рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.7245817184448242,
+      "correct": false
+    },
+    {
+      "id": 120,
+      "text": "Япония является столицей Лиссабон",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.765364170074463,
+      "correct": false
+    },
+    {
+      "id": 121,
+      "text": "Винсент Ван Гог умер в 1997 году",
+      "category": "дата смерти",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.9535820484161377,
+      "correct": true
+    },
+    {
+      "id": 122,
+      "text": "Планк ввёл понятие кванта энергии",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.8474860191345215,
+      "correct": true
+    },
+    {
+      "id": 123,
+      "text": "Великая китайская стена построена в Китае",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.974,
+      "elapsed": 0.018326759338378906,
+      "correct": true
+    },
+    {
+      "id": 124,
+      "text": "Java опубликована в 1995 году",
+      "category": "дата публикации",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.6239726543426514,
+      "correct": true
+    },
+    {
+      "id": 125,
+      "text": "Бразилия основана в 1549 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 5.418466567993164,
+      "correct": false
+    },
+    {
+      "id": 126,
+      "text": "Фёдор Достоевский по роду занятий является философ",
+      "category": "род занятий",
+      "ground_truth": "REFUTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 2.1959421634674072,
+      "correct": false
+    },
+    {
+      "id": 127,
+      "text": "Москва находится в стране Россия",
+      "category": "страна",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.904175281524658,
+      "correct": true
+    },
+    {
+      "id": 128,
+      "text": "Великобритания является столицей Лондон",
+      "category": "столица",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 0.8,
+      "elapsed": 1.9751670360565186,
+      "correct": true
+    },
+    {
+      "id": 129,
+      "text": "Нептун является первый по величине город",
+      "category": "является экземпляром",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.7834358215332031,
+      "correct": false
+    },
+    {
+      "id": 130,
+      "text": "Высота Тадж-Махал составляет 73 метров",
+      "category": "высота",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8620474338531494,
+      "correct": true
+    },
+    {
+      "id": 131,
+      "text": "Стамбул является первый по величине город",
+      "category": "является экземпляром",
+      "ground_truth": "SUPPORTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 2.072859287261963,
+      "correct": false
+    },
+    {
+      "id": 132,
+      "text": "Франция является столицей Прага",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.8757352828979492,
+      "correct": false
+    },
+    {
+      "id": 133,
+      "text": "Албания является столицей Аддис-Абеба",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 2.816702365875244,
+      "correct": true
+    },
+    {
+      "id": 134,
+      "text": "Python создан в 1991 году",
+      "category": "год_создания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8079173564910889,
+      "correct": true
+    },
+    {
+      "id": 135,
+      "text": "Германия основана в 1871 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 4.928765058517456,
+      "correct": true
+    },
+    {
+      "id": 136,
+      "text": "Фёдор Достоевский по роду занятий является новеллист",
+      "category": "род занятий",
+      "ground_truth": "SUPPORTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.6,
+      "elapsed": 2.232100248336792,
+      "correct": false
+    },
+    {
+      "id": 137,
+      "text": "Вторая мировая война: местонахождение — Центральная Африка",
+      "category": "местонахождение",
+      "ground_truth": "SUPPORTED",
+      "predicted": "CONFLICTING",
+      "confidence": 0.5,
+      "elapsed": 2.0721395015716553,
+      "correct": false
+    },
+    {
+      "id": 138,
+      "text": "Великобритания является столицей Минск",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.9,
+      "elapsed": 1.933838129043579,
+      "correct": true
+    },
+    {
+      "id": 139,
+      "text": "Фёдор Достоевский родился в 1813 году",
+      "category": "дата рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.9,
+      "elapsed": 9.389738082885742,
+      "correct": true
+    },
+    {
+      "id": 140,
+      "text": "Google основана в 1890 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.393712043762207,
+      "correct": true
+    },
+    {
+      "id": 141,
+      "text": "Великобритания является столицей Аккра",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.9,
+      "elapsed": 1.9647128582000732,
+      "correct": true
+    },
+    {
+      "id": 142,
+      "text": "Марс является четвёртой планетой от Солнца",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 3.5000510215759277,
+      "correct": true
+    },
+    {
+      "id": 143,
+      "text": "Статуя Свободы является часть объекта всемирного наследия",
+      "category": "является экземпляром",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.234604597091675,
+      "correct": true
+    },
+    {
+      "id": 144,
+      "text": "Коперник разработал гелиоцентрическую модель",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.9156033992767334,
+      "correct": true
+    },
+    {
+      "id": 145,
+      "text": "Германия является столицей Афины",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 1.91501784324646,
+      "correct": false
+    },
+    {
+      "id": 146,
+      "text": "Чарльз Дарвин родился в 1400 году",
+      "category": "дата рождения",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 3.5807039737701416,
+      "correct": true
+    },
+    {
+      "id": 147,
+      "text": "Биг-Бен основана в 1868 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.9,
+      "elapsed": 5.0156238079071045,
+      "correct": true
+    },
+    {
+      "id": 148,
+      "text": "Наполеон I: награда — кавалер Большого креста Императорского ордена Христа",
+      "category": "награда",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 2.4867067337036133,
+      "correct": true
+    },
+    {
+      "id": 149,
+      "text": "Высота Бранденбургские ворота составляет 26 метров",
+      "category": "высота",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 1.8957014083862305,
+      "correct": true
+    },
+    {
+      "id": 150,
+      "text": "Биг-Бен находится в стране Франция",
+      "category": "страна",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 0.9,
+      "elapsed": 3.084813117980957,
+      "correct": true
+    },
+    {
+      "id": 151,
+      "text": "Пифагор доказал теорему о прямоугольном треугольнике",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.985,
+      "elapsed": 0.018440961837768555,
+      "correct": true
+    },
+    {
+      "id": 152,
+      "text": "Ньютон открыл закон всемирного тяготения",
+      "category": "not_in_graph",
+      "ground_truth": "NOT_ENOUGH_INFO",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.05253529548645,
+      "correct": true
+    },
+    {
+      "id": 153,
+      "text": "Высота Билл Гейтс составляет 48 метров",
+      "category": "высота",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 2.032158136367798,
+      "correct": true
+    },
+    {
+      "id": 154,
+      "text": "Румыния является столицей Найроби",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 1.890338659286499,
+      "correct": true
+    },
+    {
+      "id": 155,
+      "text": "Биг-Бен является смотровая башня",
+      "category": "является экземпляром",
+      "ground_truth": "REFUTED",
+      "predicted": "NOT_ENOUGH_INFO",
+      "confidence": 0.0,
+      "elapsed": 2.26704740524292,
+      "correct": false
+    },
+    {
+      "id": 156,
+      "text": "Биг-Бен основана в 1791 году",
+      "category": "дата основания",
+      "ground_truth": "SUPPORTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 4.8073155879974365,
+      "correct": true
+    },
+    {
+      "id": 157,
+      "text": "Россия основана в 1263 году",
+      "category": "дата основания",
+      "ground_truth": "REFUTED",
+      "predicted": "SUPPORTED",
+      "confidence": 1.0,
+      "elapsed": 3.365277051925659,
+      "correct": false
+    },
+    {
+      "id": 158,
+      "text": "Китай является столицей Афины",
+      "category": "столица",
+      "ground_truth": "REFUTED",
+      "predicted": "REFUTED",
+      "confidence": 1.0,
+      "elapsed": 2.047797679901123,
+      "correct": true
+    }
+  ],
+  "errors": []
+}

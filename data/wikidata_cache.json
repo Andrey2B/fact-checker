@@ -1,0 +1,5768 @@
+{
+  "Эйфелева башня": [
+    {
+      "subject": "Эйфелева башня",
+      "predicate": "страна",
+      "object": "Франция"
+    },
+    {
+      "subject": "Эйфелева башня",
+      "predicate": "высота",
+      "object": "324"
+    },
+    {
+      "subject": "Эйфелева башня",
+      "predicate": "высота",
+      "object": "300"
+    },
+    {
+      "subject": "Эйфелева башня",
+      "predicate": "высота",
+      "object": "330"
+    },
+    {
+      "subject": "Эйфелева башня",
+      "predicate": "дата основания",
+      "object": "1887"
+    },
+    {
+      "subject": "Эйфелева башня",
+      "predicate": "дата основания",
+      "object": "1889"
+    }
+  ],
+  "Статуя Свободы": [
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "страна",
+      "object": "США"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "создатель",
+      "object": "Фредерик Огюст Бартольди"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "создатель",
+      "object": "Гюстав Эйфель"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "создатель",
+      "object": "Ричард Моррис Хант"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "высота",
+      "object": "46"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "высота",
+      "object": "47"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "является экземпляром",
+      "object": "часть объекта всемирного наследия"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "является экземпляром",
+      "object": "достопримечательность"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "является экземпляром",
+      "object": "смотровая башня"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "является экземпляром",
+      "object": "статуя"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "является экземпляром",
+      "object": "колоссальная статуя"
+    },
+    {
+      "subject": "Статуя Свободы",
+      "predicate": "дата основания",
+      "object": "1886"
+    }
+  ],
+  "Колизей": [
+    {
+      "subject": "Колизей",
+      "predicate": "страна",
+      "object": "Италия"
+    },
+    {
+      "subject": "Колизей",
+      "predicate": "высота",
+      "object": "48"
+    },
+    {
+      "subject": "Колизей",
+      "predicate": "дата основания",
+      "object": "0082"
+    }
+  ],
+  "Биг-Бен": [
+    {
+      "subject": "Биг-Бен",
+      "predicate": "является экземпляром",
+      "object": "триумфальная арка"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "является экземпляром",
+      "object": "памятник архитектуры"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "является экземпляром",
+      "object": "пункт пропуска через государственную границу"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "является экземпляром",
+      "object": "достопримечательность"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "является экземпляром",
+      "object": "национальный символ"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "является экземпляром",
+      "object": "городские ворота"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "архитектор",
+      "object": "Карл Готтгард Лангганс"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "архитектор",
+      "object": "Генрих Штрак"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "высота",
+      "object": "26"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "дата основания",
+      "object": "1791"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "местонахождение",
+      "object": "Доротеенштадт"
+    },
+    {
+      "subject": "Биг-Бен",
+      "predicate": "страна",
+      "object": "Германия"
+    }
+  ],
+  "Московский Кремль": [],
+  "Интернет": [
+    {
+      "subject": "Интернет",
+      "predicate": "дата основания",
+      "object": "1969"
+    }
+  ],
+  "Китай": [
+    {
+      "subject": "Китай",
+      "predicate": "дата основания",
+      "object": "1949"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1375198619"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1332810869"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1397028553"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1403500365"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1390110388"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1359755102"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1409517397"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1367480264"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1382793212"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1442965000"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1443497378"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "население",
+      "object": "1404890000"
+    },
+    {
+      "subject": "Китай",
+      "predicate": "страна",
+      "object": "Китай"
+    }
+  ],
+  "Бразилия": [
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "202656788"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "72775883"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "74988037"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "77286629"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "79643017"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "82017016"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "84379369"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "86721875"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "89052356"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "91377490"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "93709914"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "96060361"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "98427874"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "100812672"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "103228641"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "105693434"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "108219657"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "110808302"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "113455308"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "116160978"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "118924135"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "121740438"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "124610790"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "127525420"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "130455659"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "133364277"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "136223043"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "139023394"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "141767626"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "144452622"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "147078659"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "149648341"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "152153539"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "154597985"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "157011131"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "159432909"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "161890816"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "164392423"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "166925457"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "169472347"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "172006362"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "174504898"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "176968205"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "179393768"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "181752951"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "184010283"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "186142403"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "188134315"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "189996976"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "191765567"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "193490922"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "195210154"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "196935134"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "198656019"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "200361925"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "206081432"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "207353391"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "208494900"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "210147125"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "211755692"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "213317639"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "203062512"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "212583750"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "население",
+      "object": "213421037"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "страна",
+      "object": "Бразилия"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "дата основания",
+      "object": "1822"
+    },
+    {
+      "subject": "Бразилия",
+      "predicate": "дата основания",
+      "object": "1549"
+    }
+  ],
+  "Германия": [
+    {
+      "subject": "Германия",
+      "predicate": "дата основания",
+      "object": "1949"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "дата основания",
+      "object": "1933"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "дата основания",
+      "object": "1918"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "дата основания",
+      "object": "1871"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "дата основания",
+      "object": "1867"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "дата основания",
+      "object": "0641"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "дата основания",
+      "object": "0800"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "страна",
+      "object": "Германия"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "70945000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "70943000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "72031000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "73147000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "74383000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "75591000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "76864000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "77550000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78069000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78821000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78882000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78209000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78073000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78397000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78248000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "77709000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "77780000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "78390000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "79753000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "80975000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "81539000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82012000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82037000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82260000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82537000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82501000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82315000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82002000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "81752000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "80500000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "81083600"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "81292400"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82175700"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82521653"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82695000"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "82979100"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83149277"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83166711"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83157201"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83122889"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83190556"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83155031"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83121363"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83129285"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83222442"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83237124"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83695430"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "84079811"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "84270625"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "84358845"
+    },
+    {
+      "subject": "Германия",
+      "predicate": "население",
+      "object": "83577140"
+    }
+  ],
+  "Вторая мировая война": [
+    {
+      "subject": "Вторая мировая война",
+      "predicate": "местонахождение",
+      "object": "Южная Африка"
+    },
+    {
+      "subject": "Вторая мировая война",
+      "predicate": "местонахождение",
+      "object": "Центральная Африка"
+    },
+    {
+      "subject": "Вторая мировая война",
+      "predicate": "изображение",
+      "object": "Infobox collage for WWII.PNG"
+    }
+  ],
+  "Осло": [
+    {
+      "subject": "Осло",
+      "predicate": "население",
+      "object": "717710"
+    },
+    {
+      "subject": "Осло",
+      "predicate": "население",
+      "object": "623966"
+    },
+    {
+      "subject": "Осло",
+      "predicate": "население",
+      "object": "681071"
+    },
+    {
+      "subject": "Осло",
+      "predicate": "население",
+      "object": "693494"
+    },
+    {
+      "subject": "Осло",
+      "predicate": "население",
+      "object": "673469"
+    },
+    {
+      "subject": "Осло",
+      "predicate": "население",
+      "object": "709037"
+    },
+    {
+      "subject": "Осло",
+      "predicate": "население",
+      "object": "711300"
+    },
+    {
+      "subject": "Осло",
+      "predicate": "дата основания",
+      "object": "1048"
+    }
+  ],
+  "Мария Склодовская-Кюри": [
+    {
+      "subject": "Мария Склодовская-Кюри",
+      "predicate": "дата рождения",
+      "object": "1867"
+    },
+    {
+      "subject": "Мария Склодовская-Кюри",
+      "predicate": "дата смерти",
+      "object": "1934"
+    }
+  ],
+  "Метрополитен-музей": [
+    {
+      "subject": "Метрополитен-музей",
+      "predicate": "дата основания",
+      "object": "1870"
+    }
+  ],
+  "США": [
+    {
+      "subject": "США",
+      "predicate": "дата основания",
+      "object": "1776"
+    },
+    {
+      "subject": "США",
+      "predicate": "дата основания",
+      "object": "1784"
+    },
+    {
+      "subject": "США",
+      "predicate": "столица",
+      "object": "Нью-Йорк"
+    },
+    {
+      "subject": "США",
+      "predicate": "страна",
+      "object": "США"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "3929214"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "5308483"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "7239881"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "9633822"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "9638453"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "12866020"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "17069458"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "17069453"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "23191876"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "31443321"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "38558371"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "39818449"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "50155783"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "50189209"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "62979766"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "76303387"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "76094000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "76212168"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "77584000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "79163000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "80632000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "82166000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "83822000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "85450000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "87008000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "88710000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "90490000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "91972266"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "92407000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "93863000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "95335000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "97225000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "99111000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "100546000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "101961000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "103268000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "103208000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "104514000"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "105710620"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "122775046"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "132164569"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "150697361"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "179323175"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "203302031"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "226545805"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "248709873"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "281421906"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "308745538"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "311582600"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "316128839"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "323952889"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "325145963"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "328239523"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "331449281"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "332278200"
+    },
+    {
+      "subject": "США",
+      "predicate": "население",
+      "object": "340110988"
+    }
+  ],
+  "Италия": [
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "50199700"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "50536350"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "50879450"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "51252000"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "51675350"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "52112350"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "52519000"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "52900500"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "53235750"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "53537950"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "53821850"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "54073490"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "54381345"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "54751406"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "55110868"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "55441001"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "55718260"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "55955411"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56155143"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56317749"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56433883"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56501675"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56543548"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56564074"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56576718"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56593071"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56596155"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56601931"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56629288"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56671781"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56719240"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56758521"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56797087"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56831821"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56843400"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56844303"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56860281"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56890372"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56906744"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56916317"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56942108"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "56974100"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "57059007"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "57313203"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "57685327"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "57969484"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "58143979"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "58438310"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "58826731"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "59095365"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "59277417"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "59379449"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "59539717"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "60233948"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "60599936"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "60551416"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "60317000"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "население",
+      "object": "58850717"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "дата основания",
+      "object": "1946"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "дата основания",
+      "object": "1861"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "дата основания",
+      "object": "0476"
+    },
+    {
+      "subject": "Италия",
+      "predicate": "страна",
+      "object": "Италия"
+    }
+  ],
+  "Азия": [
+    {
+      "subject": "Азия",
+      "predicate": "население",
+      "object": "947000000"
+    },
+    {
+      "subject": "Азия",
+      "predicate": "население",
+      "object": "800000000"
+    },
+    {
+      "subject": "Азия",
+      "predicate": "население",
+      "object": "436000000"
+    },
+    {
+      "subject": "Азия",
+      "predicate": "население",
+      "object": "243000000"
+    },
+    {
+      "subject": "Азия",
+      "predicate": "население",
+      "object": "4164252000"
+    },
+    {
+      "subject": "Азия",
+      "predicate": "население",
+      "object": "4977954915"
+    }
+  ],
+  "Нью-Йорк": [
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "дата основания",
+      "object": "1624"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "дата основания",
+      "object": "1626"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "8405837"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "8175133"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "2507414"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "1911698"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "1174779"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "696115"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "1478103"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "391114"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "242278"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "152056"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "119734"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "79216"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "49401"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "21863"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "13046"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "11717"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "10664"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "7248"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "5840"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "4937"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "8516502"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "3437202"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "4766883"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "5620048"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "6930446"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "9454995"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "7891957"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "7781984"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "7894862"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "7071639"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "7322564"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "8008288"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "8537673"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "8398748"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "население",
+      "object": "8804190"
+    },
+    {
+      "subject": "Нью-Йорк",
+      "predicate": "страна",
+      "object": "США"
+    }
+  ],
+  "Сатурн": [
+    {
+      "subject": "Сатурн",
+      "predicate": "население",
+      "object": "947000000"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "население",
+      "object": "800000000"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "население",
+      "object": "436000000"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "население",
+      "object": "243000000"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "население",
+      "object": "4164252000"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "население",
+      "object": "4977954915"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "является экземпляром",
+      "object": "континент"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "является экземпляром",
+      "object": "часть света"
+    },
+    {
+      "subject": "Сатурн",
+      "predicate": "является экземпляром",
+      "object": "географический регион"
+    }
+  ],
+  "Луна": [
+    {
+      "subject": "Луна",
+      "predicate": "является экземпляром",
+      "object": "естественный спутник планеты"
+    }
+  ],
+  "Индия": [
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "449595489"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "458626687"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "467962144"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "477615992"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "487607406"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "497952332"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "508656247"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "519722246"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "531160986"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "542983934"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "555199768"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "567805061"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "580798773"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "594192969"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "608002572"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "622232355"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "636883717"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "651935141"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "667339022"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "683032539"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "698965575"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "715105168"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "731443752"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "747986284"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "764749394"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "781736502"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "798941802"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "816328792"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "833833510"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "851374699"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "868890700"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "886348712"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "903749636"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "921107534"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "938452550"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "955804355"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "973147577"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "990460131"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1007746556"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1025014711"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1042261758"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1059500888"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1076705723"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1093786762"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1110626108"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1127143548"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1143289350"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1159095250"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1174662334"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1190138069"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1205624648"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1221156319"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1236686732"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1252139596"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1339180127"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1324171354"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1309053980"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1293859294"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1349217956"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "население",
+      "object": "1326093247"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "дата основания",
+      "object": "1947"
+    },
+    {
+      "subject": "Индия",
+      "predicate": "страна",
+      "object": "Индия"
+    }
+  ],
+  "Афины": [
+    {
+      "subject": "Афины",
+      "predicate": "население",
+      "object": "30969"
+    },
+    {
+      "subject": "Афины",
+      "predicate": "население",
+      "object": "41298"
+    },
+    {
+      "subject": "Афины",
+      "predicate": "население",
+      "object": "643452"
+    },
+    {
+      "subject": "Афины",
+      "predicate": "население",
+      "object": "789166"
+    },
+    {
+      "subject": "Афины",
+      "predicate": "население",
+      "object": "816556"
+    },
+    {
+      "subject": "Афины",
+      "predicate": "население",
+      "object": "664046"
+    },
+    {
+      "subject": "Афины",
+      "predicate": "население",
+      "object": "565084"
+    }
+  ],
+  "IBM": [
+    {
+      "subject": "IBM",
+      "predicate": "дата основания",
+      "object": "1911"
+    },
+    {
+      "subject": "IBM",
+      "predicate": "страна",
+      "object": "США"
+    }
+  ],
+  "Великобритания": [
+    {
+      "subject": "Великобритания",
+      "predicate": "столица",
+      "object": "Лондон"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "63181775"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "63705000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "52400000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "52800000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "53250000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "53650000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "54000000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "54348050"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "54648500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "54943600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "55211700"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "55441750"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "55663250"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "55896223"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56086065"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56194527"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56229974"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56225800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56211968"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56193492"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56196504"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56246951"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56314216"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56333829"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56313641"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56332848"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56422072"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56550268"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56681396"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56802050"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "56928327"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "57076711"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "57247586"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "57424897"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "57580402"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "57718614"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "57865745"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "58019030"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "58166950"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "58316954"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "58487141"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "58682466"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "58892514"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "59119673"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "59370479"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "59647577"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "59987905"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "60401206"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "60846820"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "61322463"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "61806995"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "62276270"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "62766365"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "63258918"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "63700300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "64106779"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "65102385"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "66022273"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "67326569"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "51652500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "51430200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "51183500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50946100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50764900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50592900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50429200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50286900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50381500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50331000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "50033200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "49538700"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "48987800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "48668900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "48459600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "48261600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44323000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44870400"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "46029200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "47547700"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "47494100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "47288600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "47081300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "46868500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "46666000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "46520000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "46335000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "46073600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "45888900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "45731000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "45622200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "45432000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "45217600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "45040000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44885600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44563100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44331500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "43904100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "43646400"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42944100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "39582000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "39780700"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "40536300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "41361500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42956900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42582300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42373600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42189800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44915900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44519500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "44123800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "43737800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "43361100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42980800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42611400"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "42246600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "41892700"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "41538200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "41154600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "40774300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "40380800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "39987300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "39599100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "39221100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "38859100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "38490300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "38134100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "37802400"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "37484800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "37178900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "36881300"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "36599100"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "36313600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "36015500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "35724200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "35449700"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "35206600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "34934500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "34622900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "34304000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "33943800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "33575900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "33200000"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "32838800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "32501500"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "32177600"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "31874200"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "31484700"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "28917900"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "население",
+      "object": "27368800"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "страна",
+      "object": "Великобритания"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "дата основания",
+      "object": "1801"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "дата основания",
+      "object": "1921"
+    },
+    {
+      "subject": "Великобритания",
+      "predicate": "дата основания",
+      "object": "1927"
+    }
+  ],
+  "Первая мировая война": [
+    {
+      "subject": "Первая мировая война",
+      "predicate": "местонахождение",
+      "object": "Азия"
+    }
+  ],
+  "Солнце": [],
+  "Гай Юлий Цезарь": [
+    {
+      "subject": "Гай Юлий Цезарь",
+      "predicate": "награда",
+      "object": "Консекрация (Древний Рим)"
+    }
+  ],
+  "Франкфурт-на-Майне": [
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "701000"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "701350"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "687775"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "676533"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "667925"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "679664"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "646550"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "644865"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "618266"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "629375"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "717624"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "732688"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "736414"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "746878"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "753056"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "764104"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "764474"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "759224"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "773068"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "население",
+      "object": "775790"
+    },
+    {
+      "subject": "Франкфурт-на-Майне",
+      "predicate": "дата основания",
+      "object": "0100"
+    }
+  ],
+  "Джордж Гордон Байрон": [
+    {
+      "subject": "Джордж Гордон Байрон",
+      "predicate": "дата рождения",
+      "object": "1788"
+    },
+    {
+      "subject": "Джордж Гордон Байрон",
+      "predicate": "дата смерти",
+      "object": "1824"
+    },
+    {
+      "subject": "Джордж Гордон Байрон",
+      "predicate": "гражданство",
+      "object": "Великобритания"
+    }
+  ],
+  "Леонард Эйлер": [
+    {
+      "subject": "Леонард Эйлер",
+      "predicate": "дата рождения",
+      "object": "1707"
+    },
+    {
+      "subject": "Леонард Эйлер",
+      "predicate": "дата смерти",
+      "object": "1783"
+    }
+  ],
+  "Париж": [
+    {
+      "subject": "Париж",
+      "predicate": "страна",
+      "object": "Франция"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2145906"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2165423"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2175601"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2187526"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2243739"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2211297"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2125246"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2152423"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2113705"
+    },
+    {
+      "subject": "Париж",
+      "predicate": "население",
+      "object": "2103778"
+    }
+  ],
+  "Россия": [
+    {
+      "subject": "Россия",
+      "predicate": "дата основания",
+      "object": "1991"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "дата основания",
+      "object": "0880"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "дата основания",
+      "object": "1125"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "дата основания",
+      "object": "1263"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "столица",
+      "object": "Москва"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "страна",
+      "object": "Россия"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "101438000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "119046000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "129941000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "137550949"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "138127000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "147665000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146890000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146304000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "142865000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "142834000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "143056383"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "143347059"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "143700000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "143666931"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146300000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146519759"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146500000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146804372"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146800000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146900000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146781000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "147182123"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146980000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146447000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146151000"
+    },
+    {
+      "subject": "Россия",
+      "predicate": "население",
+      "object": "146119928"
+    }
+  ],
+  "Java": [
+    {
+      "subject": "Java",
+      "predicate": "дата основания",
+      "object": "1995"
+    },
+    {
+      "subject": "Java",
+      "predicate": "страна происхождения",
+      "object": "США"
+    },
+    {
+      "subject": "Java",
+      "predicate": "дата публикации",
+      "object": "1995"
+    }
+  ],
+  "Варшава": [
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1753977"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1700536"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1694825"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1676600"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1707100"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1611800"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1596100"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1436100"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1315600"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1139200"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1000000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "422000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1300000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1003000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "686000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "383000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "163600"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "139700"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "63400"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "120000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "30000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "638000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "25000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "40000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "100000"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1744351"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1764615"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1777972"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1790658"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1735442"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1724404"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1715517"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1708491"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1860281"
+    },
+    {
+      "subject": "Варшава",
+      "predicate": "население",
+      "object": "1862402"
+    }
+  ],
+  "Apple Inc.": [
+    {
+      "subject": "Apple Inc.",
+      "predicate": "страна",
+      "object": "США"
+    },
+    {
+      "subject": "Apple Inc.",
+      "predicate": "дата основания",
+      "object": "1976"
+    },
+    {
+      "subject": "Apple Inc.",
+      "predicate": "страна происхождения",
+      "object": "США"
+    },
+    {
+      "subject": "Apple Inc.",
+      "predicate": "местонахождение",
+      "object": "США"
+    }
+  ],
+  "Вифлеем": [
+    {
+      "subject": "Вифлеем",
+      "predicate": "население",
+      "object": "36000"
+    },
+    {
+      "subject": "Вифлеем",
+      "predicate": "население",
+      "object": "25000"
+    }
+  ],
+  "Виктория": [
+    {
+      "subject": "Виктория",
+      "predicate": "дата рождения",
+      "object": "1819"
+    },
+    {
+      "subject": "Виктория",
+      "predicate": "дата смерти",
+      "object": "1901"
+    },
+    {
+      "subject": "Виктория",
+      "predicate": "высота",
+      "object": "142.24"
+    }
+  ],
+  "Альберт Эйнштейн": [
+    {
+      "subject": "Альберт Эйнштейн",
+      "predicate": "дата рождения",
+      "object": "1879"
+    },
+    {
+      "subject": "Альберт Эйнштейн",
+      "predicate": "дата смерти",
+      "object": "1955"
+    },
+    {
+      "subject": "Альберт Эйнштейн",
+      "predicate": "гражданство",
+      "object": "США"
+    }
+  ],
+  "Иоганн Себастьян Бах": [
+    {
+      "subject": "Иоганн Себастьян Бах",
+      "predicate": "дата смерти",
+      "object": "1750"
+    },
+    {
+      "subject": "Иоганн Себастьян Бах",
+      "predicate": "дата рождения",
+      "object": "1685"
+    }
+  ],
+  "Токио": [
+    {
+      "subject": "Токио",
+      "predicate": "население",
+      "object": "14047594"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "население",
+      "object": "13159388"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "население",
+      "object": "12576611"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "население",
+      "object": "13513734"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "население",
+      "object": "38140000"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "население",
+      "object": "14264798"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "страна",
+      "object": "Япония"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "расположен в",
+      "object": "Япония"
+    },
+    {
+      "subject": "Токио",
+      "predicate": "дата основания",
+      "object": "1868"
+    }
+  ],
+  "Винсент Ван Гог": [
+    {
+      "subject": "Винсент Ван Гог",
+      "predicate": "дата рождения",
+      "object": "1853"
+    },
+    {
+      "subject": "Винсент Ван Гог",
+      "predicate": "дата смерти",
+      "object": "1890"
+    }
+  ],
+  "Джузеппе Верди": [
+    {
+      "subject": "Джузеппе Верди",
+      "predicate": "место рождения",
+      "object": "Италия"
+    },
+    {
+      "subject": "Джузеппе Верди",
+      "predicate": "дата смерти",
+      "object": "1901"
+    },
+    {
+      "subject": "Джузеппе Верди",
+      "predicate": "дата рождения",
+      "object": "1813"
+    }
+  ],
+  "1744 год": [],
+  "Тадж-Махал": [
+    {
+      "subject": "Тадж-Махал",
+      "predicate": "страна",
+      "object": "Индия"
+    },
+    {
+      "subject": "Тадж-Махал",
+      "predicate": "высота",
+      "object": "73"
+    },
+    {
+      "subject": "Тадж-Махал",
+      "predicate": "дата основания",
+      "object": "1631"
+    }
+  ],
+  "Дженнифер Энистон": [
+    {
+      "subject": "Дженнифер Энистон",
+      "predicate": "гражданство",
+      "object": "США"
+    },
+    {
+      "subject": "Дженнифер Энистон",
+      "predicate": "дата рождения",
+      "object": "1969"
+    }
+  ],
+  "Япония": [
+    {
+      "subject": "Япония",
+      "predicate": "столица",
+      "object": "Токио"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "125570246"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126925843"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "127767994"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "128057352"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "127094745"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126146099"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126785797"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126317168"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126180643"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126251556"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126264931"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126218856"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126131444"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126166948"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126161181"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126143993"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "125988209"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126004305"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126253652"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126248424"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126309690"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126493181"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126501966"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126465796"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126509241"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126529100"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126496302"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126416629"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126443180"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126452921"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "126434565"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "125961625"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "125682000"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "125440000"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "123611167"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "124631000"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "население",
+      "object": "123802000"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "дата основания",
+      "object": "1890"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "дата основания",
+      "object": "1947"
+    },
+    {
+      "subject": "Япония",
+      "predicate": "страна",
+      "object": "Япония"
+    }
+  ],
+  "Лондон": [
+    {
+      "subject": "Лондон",
+      "predicate": "дата основания",
+      "object": "0047"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "страна",
+      "object": "Великобритания"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "1011157"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "1197673"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "1450122"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "1729949"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "1917013"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "2286609"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "3094391"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "3902178"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "4709960"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "5565856"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "6226494"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "7157875"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "7553526"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "8098942"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "7987936"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "8164416"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "7781342"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "7449184"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "6608513"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "6887280"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "7172036"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "8416535"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "8787892"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "8908081"
+    },
+    {
+      "subject": "Лондон",
+      "predicate": "население",
+      "object": "8799728"
+    }
+  ],
+  "Венера": [],
+  "Чарльз Дарвин": [
+    {
+      "subject": "Чарльз Дарвин",
+      "predicate": "дата рождения",
+      "object": "1809"
+    },
+    {
+      "subject": "Чарльз Дарвин",
+      "predicate": "дата смерти",
+      "object": "1882"
+    },
+    {
+      "subject": "Чарльз Дарвин",
+      "predicate": "место смерти",
+      "object": "Лондон"
+    }
+  ],
+  "красота": [],
+  "Диана, принцесса Уэльская": [
+    {
+      "subject": "Диана, принцесса Уэльская",
+      "predicate": "дата смерти",
+      "object": "1997"
+    },
+    {
+      "subject": "Диана, принцесса Уэльская",
+      "predicate": "дата рождения",
+      "object": "1961"
+    },
+    {
+      "subject": "Диана, принцесса Уэльская",
+      "predicate": "гражданство",
+      "object": "Великобритания"
+    }
+  ],
+  "Си": [
+    {
+      "subject": "Си",
+      "predicate": "дата основания",
+      "object": "1972"
+    }
+  ],
+  "Земля": [
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "50000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "100000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "285000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "400000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "791000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "1000000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "1262000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "1650000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "2000000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "2518629000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "2755823000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "3021475000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "3334874000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "3692492000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "4000000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "4068109000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "4434682000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "4830979000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "5000000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "5263593000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "5674380000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "6000000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "6070581000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "6343628000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "6800000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7000000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7202951000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7359044782"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "1500000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7392793000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7463786469"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7475406776"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7510021269"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7530103737"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7652516839"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7655957369"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7830458560"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7937081566"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "7969111502"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "8000000000"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "8028504258"
+    },
+    {
+      "subject": "Земля",
+      "predicate": "население",
+      "object": "8117059282"
+    }
+  ],
+  "Google": [
+    {
+      "subject": "Google",
+      "predicate": "дата основания",
+      "object": "1998"
+    },
+    {
+      "subject": "Google",
+      "predicate": "страна",
+      "object": "США"
+    }
+  ],
+  "Франция": [
+    {
+      "subject": "Франция",
+      "predicate": "столица",
+      "object": "Париж"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "столица",
+      "object": "Лондон"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "дата основания",
+      "object": "1958"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "дата основания",
+      "object": "1792"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "дата основания",
+      "object": "0843"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "дата основания",
+      "object": "0481"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "дата основания",
+      "object": "1804"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "40681000"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "41067000"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "41415000"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "46647521"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "47293811"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "47990159"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "48697015"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "49361165"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "49945471"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "50430631"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "50829214"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "51175036"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "51518731"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "51895793"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "52320049"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "52776806"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "53239101"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "53666947"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "54033095"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "54328016"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "54565943"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "54772084"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "54982879"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "55224670"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "55505282"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "55816654"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "56149874"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "56489874"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "56825158"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "57155165"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "57482783"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "57803824"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "58113622"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "58409202"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "58557072"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "58849212"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "59105073"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "59325793"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "59540711"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "59752020"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "59963792"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "60185178"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "60495470"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "60911057"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "61355725"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "61803229"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "62242474"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "62702121"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "63176246"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "63617975"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "64012572"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "64371099"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "64702921"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "65023142"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "65343588"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "65649570"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "65939866"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "66380602"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "66628000"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "67118648"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "67063703"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "67749632"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "68373433"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "68605616"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "67257982"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "население",
+      "object": "66992159"
+    },
+    {
+      "subject": "Франция",
+      "predicate": "страна",
+      "object": "Франция"
+    }
+  ],
+  "Юпитер": [],
+  "Москва": [
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "30000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "40000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "100000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "200000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "160000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "145000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "138400"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "130000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "161000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "188700"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "250000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "270200"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "215000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "241500"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "305600"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "335800"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "349100"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "353300"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "373800"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "368800"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "377800"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "379300"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "462500"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "351600"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "416400"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "601969"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "753500"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "753459"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "822400"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1039000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1175000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1174700"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1345700"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1359200"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1617157"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1563100"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1762700"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1817000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1854400"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1028200"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "1542900"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "2080000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "2127200"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "2781300"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "3641500"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "4131633"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "4839000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "5045905"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "6422000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "6941961"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "7151000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "7255000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "7862000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "7658000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "7830509"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "8111000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "8652000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "8527000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "8815000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "8769117"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "8880124"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9017415"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9067808"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9066025"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9066612"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9085457"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9246727"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9411236"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9604297"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9783242"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "9932932"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "10114203"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "10382754"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "10386903"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "10535681"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "10726429"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "10923762"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "11091428"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "11186851"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "11281631"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "11503501"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "11776764"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "11856578"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "11979529"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12108257"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12197596"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12380664"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12500123"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12506468"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12615882"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12692466"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "12455682"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "13010112"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "13149000"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "население",
+      "object": "13274285"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "страна",
+      "object": "Россия"
+    },
+    {
+      "subject": "Москва",
+      "predicate": "расположен в",
+      "object": "Россия"
+    }
+  ],
+  "Леонардо да Винчи": [
+    {
+      "subject": "Леонардо да Винчи",
+      "predicate": "дата рождения",
+      "object": "1452"
+    },
+    {
+      "subject": "Леонардо да Винчи",
+      "predicate": "дата смерти",
+      "object": "1519"
+    }
+  ],
+  "Ибн Хальдун": [
+    {
+      "subject": "Ибн Хальдун",
+      "predicate": "дата рождения",
+      "object": "1332"
+    },
+    {
+      "subject": "Ибн Хальдун",
+      "predicate": "дата смерти",
+      "object": "1406"
+    }
+  ],
+  "Людвиг Витгенштейн": [
+    {
+      "subject": "Людвиг Витгенштейн",
+      "predicate": "гражданство",
+      "object": "Великобритания"
+    },
+    {
+      "subject": "Людвиг Витгенштейн",
+      "predicate": "дата рождения",
+      "object": "1889"
+    },
+    {
+      "subject": "Людвиг Витгенштейн",
+      "predicate": "дата смерти",
+      "object": "1951"
+    }
+  ],
+  "Генри Пёрселл": [
+    {
+      "subject": "Генри Пёрселл",
+      "predicate": "дата смерти",
+      "object": "1695"
+    },
+    {
+      "subject": "Генри Пёрселл",
+      "predicate": "дата рождения",
+      "object": "1659"
+    }
+  ],
+  "Тэджон": [
+    {
+      "subject": "Тэджон",
+      "predicate": "население",
+      "object": "1475221"
+    },
+    {
+      "subject": "Тэджон",
+      "predicate": "население",
+      "object": "1538394"
+    },
+    {
+      "subject": "Тэджон",
+      "predicate": "население",
+      "object": "1502579"
+    },
+    {
+      "subject": "Тэджон",
+      "predicate": "население",
+      "object": "1511214"
+    },
+    {
+      "subject": "Тэджон",
+      "predicate": "население",
+      "object": "1443106"
+    }
+  ],
+  "Марс": [],
+  "Меркурий": [],
+  "Meta": [
+    {
+      "subject": "Meta",
+      "predicate": "страна",
+      "object": "США"
+    },
+    {
+      "subject": "Meta",
+      "predicate": "дата основания",
+      "object": "2004"
+    }
+  ],
+  "Наполеон I": [
+    {
+      "subject": "Наполеон I",
+      "predicate": "гражданство",
+      "object": "Франция"
+    },
+    {
+      "subject": "Наполеон I",
+      "predicate": "награда",
+      "object": "кавалер Большого креста Императорского ордена Христа"
+    },
+    {
+      "subject": "Наполеон I",
+      "predicate": "дата рождения",
+      "object": "1769"
+    },
+    {
+      "subject": "Наполеон I",
+      "predicate": "дата смерти",
+      "object": "1821"
+    },
+    {
+      "subject": "Наполеон I",
+      "predicate": "высота",
+      "object": "168"
+    }
+  ],
+  "Opel Astra": [],
+  "Билл Гейтс": [
+    {
+      "subject": "Билл Гейтс",
+      "predicate": "гражданство",
+      "object": "США"
+    },
+    {
+      "subject": "Билл Гейтс",
+      "predicate": "дата рождения",
+      "object": "1955"
+    },
+    {
+      "subject": "Билл Гейтс",
+      "predicate": "высота",
+      "object": "1.77"
+    }
+  ],
+  "Варсинайс-Суоми": [
+    {
+      "subject": "Варсинайс-Суоми",
+      "predicate": "население",
+      "object": "481673"
+    },
+    {
+      "subject": "Варсинайс-Суоми",
+      "predicate": "население",
+      "object": "497800"
+    },
+    {
+      "subject": "Варсинайс-Суоми",
+      "predicate": "дата основания",
+      "object": "1994"
+    }
+  ],
+  "Иммануил Кант": [
+    {
+      "subject": "Иммануил Кант",
+      "predicate": "дата рождения",
+      "object": "1724"
+    },
+    {
+      "subject": "Иммануил Кант",
+      "predicate": "дата смерти",
+      "object": "1804"
+    }
+  ],
+  "The Rolling Stones": [
+    {
+      "subject": "The Rolling Stones",
+      "predicate": "дата основания",
+      "object": "1962"
+    },
+    {
+      "subject": "The Rolling Stones",
+      "predicate": "страна происхождения",
+      "object": "Великобритания"
+    }
+  ],
+  "искусственный интеллект": [
+    {
+      "subject": "искусственный интеллект",
+      "predicate": "является экземпляром",
+      "object": "тип технологии"
+    },
+    {
+      "subject": "искусственный интеллект",
+      "predicate": "является экземпляром",
+      "object": "отрасль компьютерных наук"
+    },
+    {
+      "subject": "искусственный интеллект",
+      "predicate": "является экземпляром",
+      "object": "тип интеллекта"
+    }
+  ],
+  "Python": [
+    {
+      "subject": "Python",
+      "predicate": "дата основания",
+      "object": "1991"
+    },
+    {
+      "subject": "Python",
+      "predicate": "разработчик",
+      "object": "Python Software Foundation"
+    },
+    {
+      "subject": "Python",
+      "predicate": "разработчик",
+      "object": "Гвидо ван Россум"
+    },
+    {
+      "subject": "Python",
+      "predicate": "является экземпляром",
+      "object": "объектно-ориентированный язык программирования"
+    },
+    {
+      "subject": "Python",
+      "predicate": "является экземпляром",
+      "object": "динамический язык программирования"
+    },
+    {
+      "subject": "Python",
+      "predicate": "является экземпляром",
+      "object": "язык функционального программирования"
+    }
+  ],
+  "Бранденбургские ворота": [
+    {
+      "subject": "Бранденбургские ворота",
+      "predicate": "высота",
+      "object": "26"
+    },
+    {
+      "subject": "Бранденбургские ворота",
+      "predicate": "дата основания",
+      "object": "1791"
+    }
+  ],
+  "горнолыжный курорт": [],
+  "Стив Джобс": [
+    {
+      "subject": "Стив Джобс",
+      "predicate": "изображение",
+      "object": "Steve Jobs Headshot 2010-CROP2.jpg"
+    },
+    {
+      "subject": "Стив Джобс",
+      "predicate": "дата рождения",
+      "object": "1955"
+    },
+    {
+      "subject": "Стив Джобс",
+      "predicate": "дата смерти",
+      "object": "2011"
+    },
+    {
+      "subject": "Стив Джобс",
+      "predicate": "род занятий",
+      "object": "учредитель"
+    },
+    {
+      "subject": "Стив Джобс",
+      "predicate": "награда",
+      "object": "премия попечительского совета «Грэмми»"
+    }
+  ],
+  "Стамбул": [
+    {
+      "subject": "Стамбул",
+      "predicate": "страна",
+      "object": "Турция"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "страна",
+      "object": "Османская империя"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "страна",
+      "object": "Византия"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "страна",
+      "object": "Латинская империя"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "страна",
+      "object": "Римская империя"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "является экземпляром",
+      "object": "metropolitan municipality in Turkey"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "является экземпляром",
+      "object": "бывшая столица"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "является экземпляром",
+      "object": "мегагород"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "является экземпляром",
+      "object": "первый по величине город"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "дата основания",
+      "object": "1453"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "15655924"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "15462452"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "14657434"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "14377018"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "14160467"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "13854740"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "13624240"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "13255685"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "12915158"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "12697164"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "12573836"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "10018735"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "7309190"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "5842985"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "4741890"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "3904588"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "3019032"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "2293823"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "1882092"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "1533822"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "1166477"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "1078399"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "991237"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "883599"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "806863"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "710286"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "9198809"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "15067724"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "15519267"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "15029231"
+    },
+    {
+      "subject": "Стамбул",
+      "predicate": "население",
+      "object": "14804116"
+    }
+  ],
+  "Фёдор Достоевский": [
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "место рождения",
+      "object": "Мариинская больница для бедных"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "место рождения",
+      "object": "Москва"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "место смерти",
+      "object": "Санкт-Петербург"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "род занятий",
+      "object": "переводчик"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "род занятий",
+      "object": "поэт"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "род занятий",
+      "object": "романист"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "род занятий",
+      "object": "эссеист"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "род занятий",
+      "object": "новеллист"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "род занятий",
+      "object": "философ"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "дата рождения",
+      "object": "1821"
+    },
+    {
+      "subject": "Фёдор Достоевский",
+      "predicate": "дата смерти",
+      "object": "1881"
+    }
+  ],
+  "Нептун": [
+    {
+      "subject": "Нептун",
+      "predicate": "является экземпляром",
+      "object": "газовая планета"
+    },
+    {
+      "subject": "Нептун",
+      "predicate": "является экземпляром",
+      "object": "внешние планеты"
+    },
+    {
+      "subject": "Нептун",
+      "predicate": "местонахождение",
+      "object": "внешняя часть Солнечной системы"
+    }
+  ]
+}

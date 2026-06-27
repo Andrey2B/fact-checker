@@ -1,0 +1,2242 @@
+{
+  "ollama": {
+    "metrics": {
+      "model": "Ollama (llama3)",
+      "accuracy": 0.7848101265822784,
+      "macro_f1": 0.7909237655000366,
+      "avg_conf": 0.7066455696202532,
+      "avg_time": 9.072533630117585,
+      "total": 158,
+      "correct": 124,
+      "params": "~8B"
+    },
+    "results": [
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 11.091192960739136,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.250796556472778,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.526612043380737,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.369430780410767,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.8,
+        "elapsed": 8.092435121536255,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.742987871170044,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.31706428527832,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.335904836654663,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.150479316711426,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.6,
+        "elapsed": 12.496478796005249,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.081831455230713,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.177116870880127,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 8.640852212905884,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.214704513549805,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.054622888565063,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.494828701019287,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.355838775634766,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.9,
+        "elapsed": 8.582690238952637,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.952632904052734,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.9,
+        "elapsed": 8.250141382217407,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 9.033381938934326,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.114505767822266,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.070682287216187,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.6,
+        "elapsed": 9.634388446807861,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.947696447372437,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.390400886535645,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.041460037231445,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 7.987745046615601,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.094150304794312,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.31859040260315,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 9.393707275390625,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.43464970588684,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.699335098266602,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 10.965118646621704,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.608963966369629,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.628150224685669,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.038569211959839,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.41650390625,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.219250440597534,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.133283615112305,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.85055136680603,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.245583295822144,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 7.9608471393585205,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.085012912750244,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.103920459747314,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.5,
+        "elapsed": 9.555379629135132,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.6,
+        "elapsed": 8.630377292633057,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.200937509536743,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.394444704055786,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.718300580978394,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.393385648727417,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 7.911132335662842,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.8,
+        "elapsed": 8.348944902420044,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.614960193634033,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.307996988296509,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.383323192596436,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.679337501525879,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 9.91099238395691,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.307795763015747,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.386614322662354,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.8,
+        "elapsed": 8.17369270324707,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.198156118392944,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.308046340942383,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.397725820541382,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 8.76602053642273,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 11.090764045715332,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.254268169403076,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.6,
+        "elapsed": 8.431927680969238,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.9,
+        "elapsed": 8.238689661026001,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.844910860061646,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.133126974105835,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.296849966049194,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.100088596343994,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.242390155792236,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.529752969741821,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 10.996102094650269,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.35269021987915,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.24415397644043,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.621843099594116,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.579024314880371,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.282647371292114,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.39287257194519,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.139374494552612,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.784048795700073,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.211990118026733,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 9.642693996429443,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.218556880950928,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.495977401733398,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.570964813232422,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.372340679168701,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.64399003982544,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.330395936965942,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 8.727968692779541,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.299169778823853,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.700627565383911,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.420924663543701,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.261850833892822,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 12.1262047290802,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.184954404830933,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.442991733551025,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 13.380345344543457,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 13.494736909866333,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.433121681213379,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 13.699758768081665,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 10.10999870300293,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.575778722763062,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.891418218612671,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.921147108078003,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.9284987449646,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.519779443740845,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.75,
+        "elapsed": 9.554547786712646,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.454039096832275,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.392040491104126,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.617366075515747,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.32645583152771,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.994516372680664,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 12.909889698028564,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.156750440597534,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.311586618423462,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.157152891159058,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.330424070358276,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.228346586227417,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 12.007907629013062,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.283275127410889,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 11.70522403717041,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 8.735134840011597,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.341406106948853,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.8,
+        "elapsed": 8.38005256652832,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.467432260513306,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.40058422088623,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 8.503520011901855,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.261719226837158,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.362861633300781,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.344824314117432,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 11.228138446807861,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.6,
+        "elapsed": 8.659703016281128,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "CONFLICTING",
+        "confidence": 0.5,
+        "elapsed": 8.49671483039856,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.9,
+        "elapsed": 8.308763265609741,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.9,
+        "elapsed": 13.567952156066895,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.847395181655884,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.9,
+        "elapsed": 8.480820655822754,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 9.895806074142456,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.762119770050049,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.447372913360596,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.353254556655884,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 9.876526355743408,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.9,
+        "elapsed": 11.361796140670776,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.013983011245728,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 8.272737264633179,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.9,
+        "elapsed": 9.515698432922363,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.475416421890259,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.50216794013977,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.393025636672974,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.353984355926514,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.0,
+        "elapsed": 8.768165111541748,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 11.16007375717163,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "SUPPORTED",
+        "confidence": 1.0,
+        "elapsed": 9.756858825683594,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 1.0,
+        "elapsed": 8.390413761138916,
+        "correct": true
+      }
+    ]
+  },
+  "mini_lm": {
+    "metrics": {
+      "model": "MiniVerifier",
+      "accuracy": 0.17721518987341772,
+      "macro_f1": 0.1772576054493521,
+      "avg_conf": 0.862753164556962,
+      "avg_time": 0.010934773879715158,
+      "total": 158,
+      "correct": 28,
+      "params": "~5M"
+    },
+    "results": [
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.512,
+        "elapsed": 0.25359082221984863,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.00931096076965332,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008896589279174805,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.55,
+        "elapsed": 0.010406494140625,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008652925491333008,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009178400039672852,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.594,
+        "elapsed": 0.00910186767578125,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.009033441543579102,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.013298511505126953,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.979,
+        "elapsed": 0.012381553649902344,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.993,
+        "elapsed": 0.009084939956665039,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.009322166442871094,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.995,
+        "elapsed": 0.009829998016357422,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.012283563613891602,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.009576797485351562,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00963735580444336,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "REFUTED",
+        "confidence": 0.578,
+        "elapsed": 0.009026765823364258,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009821653366088867,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00870823860168457,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009438514709472656,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.407,
+        "elapsed": 0.00909423828125,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009008646011352539,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008805036544799805,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.97,
+        "elapsed": 0.009254693984985352,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008576393127441406,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "REFUTED",
+        "confidence": 0.469,
+        "elapsed": 0.009456396102905273,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "REFUTED",
+        "confidence": 0.669,
+        "elapsed": 0.008901357650756836,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009047269821166992,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008582830429077148,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008982658386230469,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.584,
+        "elapsed": 0.009075641632080078,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.953,
+        "elapsed": 0.010416984558105469,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009590864181518555,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.895,
+        "elapsed": 0.008513212203979492,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.593,
+        "elapsed": 0.008796930313110352,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008346080780029297,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.010339736938476562,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.51,
+        "elapsed": 0.009482622146606445,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.764,
+        "elapsed": 0.009268522262573242,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.42,
+        "elapsed": 0.009232759475708008,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.995,
+        "elapsed": 0.008373737335205078,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "REFUTED",
+        "confidence": 0.476,
+        "elapsed": 0.00937342643737793,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.009047269821166992,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.949,
+        "elapsed": 0.009011983871459961,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.010235309600830078,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.56,
+        "elapsed": 0.010751485824584961,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009080171585083008,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.943,
+        "elapsed": 0.008839845657348633,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.985,
+        "elapsed": 0.009392261505126953,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "REFUTED",
+        "confidence": 0.353,
+        "elapsed": 0.009979248046875,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009045839309692383,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.515,
+        "elapsed": 0.007597684860229492,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008939743041992188,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.992,
+        "elapsed": 0.01403951644897461,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009218931198120117,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009171724319458008,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008927106857299805,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008866310119628906,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.994,
+        "elapsed": 0.010364055633544922,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "REFUTED",
+        "confidence": 0.987,
+        "elapsed": 0.010615825653076172,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00889897346496582,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009363412857055664,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.667,
+        "elapsed": 0.009247064590454102,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "REFUTED",
+        "confidence": 0.443,
+        "elapsed": 0.009045600891113281,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008905172348022461,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.827,
+        "elapsed": 0.008603572845458984,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009469985961914062,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008803129196166992,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.957,
+        "elapsed": 0.009397268295288086,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.997,
+        "elapsed": 0.010873556137084961,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "REFUTED",
+        "confidence": 0.777,
+        "elapsed": 0.00911712646484375,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.009029150009155273,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.00917363166809082,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.747,
+        "elapsed": 0.008788108825683594,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009389877319335938,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.895,
+        "elapsed": 0.00836324691772461,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.982,
+        "elapsed": 0.009590864181518555,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009313821792602539,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.012032270431518555,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.996,
+        "elapsed": 0.009341239929199219,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00979757308959961,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009090185165405273,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.764,
+        "elapsed": 0.009244441986083984,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00932455062866211,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.764,
+        "elapsed": 0.009042024612426758,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008572578430175781,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.010076761245727539,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.814,
+        "elapsed": 0.009552001953125,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.55,
+        "elapsed": 0.008914947509765625,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "REFUTED",
+        "confidence": 0.995,
+        "elapsed": 0.009209156036376953,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.477,
+        "elapsed": 0.008940935134887695,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.996,
+        "elapsed": 0.011192083358764648,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.755,
+        "elapsed": 0.009200096130371094,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008989572525024414,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00911092758178711,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009301424026489258,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.009556770324707031,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.985,
+        "elapsed": 0.008984565734863281,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "REFUTED",
+        "confidence": 0.471,
+        "elapsed": 0.009096622467041016,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.958,
+        "elapsed": 0.009767293930053711,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.637,
+        "elapsed": 0.008905172348022461,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009138107299804688,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009115457534790039,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.965,
+        "elapsed": 0.00859379768371582,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009030342102050781,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008658170700073242,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.788,
+        "elapsed": 0.009941339492797852,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.012975692749023438,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009432792663574219,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.829,
+        "elapsed": 0.009526968002319336,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.674,
+        "elapsed": 0.009177684783935547,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.902,
+        "elapsed": 0.008788108825683594,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009139776229858398,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.978,
+        "elapsed": 0.009145498275756836,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.502,
+        "elapsed": 0.009291410446166992,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009247779846191406,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.635,
+        "elapsed": 0.009607791900634766,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.957,
+        "elapsed": 0.009000778198242188,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009527921676635742,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009801387786865234,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009582996368408203,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.626,
+        "elapsed": 0.009234428405761719,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.974,
+        "elapsed": 0.008893728256225586,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008823156356811523,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.998,
+        "elapsed": 0.008658170700073242,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.010335922241210938,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.00902867317199707,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00857686996459961,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009121417999267578,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009448051452636719,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "REFUTED",
+        "confidence": 0.412,
+        "elapsed": 0.009516000747680664,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.902,
+        "elapsed": 0.008903741836547852,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.714,
+        "elapsed": 0.009089946746826172,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.008689641952514648,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008724212646484375,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.012879371643066406,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.00908517837524414,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009221553802490234,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009222269058227539,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.562,
+        "elapsed": 0.008977890014648438,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.00868082046508789,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.808,
+        "elapsed": 0.009105920791625977,
+        "correct": true
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009662628173828125,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "REFUTED",
+        "confidence": 0.492,
+        "elapsed": 0.009227752685546875,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.009602069854736328,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "REFUTED",
+        "confidence": 0.993,
+        "elapsed": 0.008980751037597656,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008554697036743164,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.999,
+        "elapsed": 0.009368896484375,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.010837793350219727,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008738517761230469,
+        "correct": false
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.985,
+        "elapsed": 0.008949756622314453,
+        "correct": true
+      },
+      {
+        "ground_truth": "NOT_ENOUGH_INFO",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.94,
+        "elapsed": 0.00912928581237793,
+        "correct": true
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.01108098030090332,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "SUPPORTED",
+        "confidence": 0.512,
+        "elapsed": 0.008870840072631836,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008773565292358398,
+        "correct": false
+      },
+      {
+        "ground_truth": "SUPPORTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 1.0,
+        "elapsed": 0.008635282516479492,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.844,
+        "elapsed": 0.008727550506591797,
+        "correct": false
+      },
+      {
+        "ground_truth": "REFUTED",
+        "predicted": "NOT_ENOUGH_INFO",
+        "confidence": 0.943,
+        "elapsed": 0.008770465850830078,
+        "correct": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,5252 @@
+[
+  {
+    "id": 104,
+    "text": "Masaki Kawakami родился в 1969 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11477581",
+    "fact": {
+      "subject": "Masaki Kawakami",
+      "predicate": "дата рождения",
+      "object": "1969",
+      "pid": "P569",
+      "qid": "Q11477581"
+    }
+  },
+  {
+    "id": 202,
+    "text": "Kosta Spisarevski родился в 0780 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q12283812",
+    "fact": {
+      "subject": "Kosta Spisarevski",
+      "predicate": "дата рождения",
+      "object": "0780",
+      "pid": "P569",
+      "qid": "Q12283812"
+    }
+  },
+  {
+    "id": 141,
+    "text": "Johan Nilsson i Skravelsjö умер в 1904 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q6010704",
+    "fact": {
+      "subject": "Johan Nilsson i Skravelsjö",
+      "predicate": "дата смерти",
+      "object": "1904",
+      "pid": "P570",
+      "qid": "Q6010704"
+    }
+  },
+  {
+    "id": 156,
+    "text": "Robert W. Rönström родился в 1424 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6087012",
+    "fact": {
+      "subject": "Robert W. Rönström",
+      "predicate": "дата рождения",
+      "object": "1424",
+      "pid": "P569",
+      "qid": "Q6087012"
+    }
+  },
+  {
+    "id": 135,
+    "text": "Ngor Sovann родился в 1970 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16733324",
+    "fact": {
+      "subject": "Ngor Sovann",
+      "predicate": "дата рождения",
+      "object": "1970",
+      "pid": "P569",
+      "qid": "Q16733324"
+    }
+  },
+  {
+    "id": 57,
+    "text": "Franz Abbé умер в 1936 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q3752113",
+    "fact": {
+      "subject": "Franz Abbé",
+      "predicate": "дата смерти",
+      "object": "1936",
+      "pid": "P570",
+      "qid": "Q3752113"
+    }
+  },
+  {
+    "id": 86,
+    "text": "Туомас Салминен родился в 1981 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11898644",
+    "fact": {
+      "subject": "Туомас Салминен",
+      "predicate": "дата рождения",
+      "object": "1981",
+      "pid": "P569",
+      "qid": "Q11898644"
+    }
+  },
+  {
+    "id": 96,
+    "text": "Józef Petruk родился в 1944 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11731132",
+    "fact": {
+      "subject": "Józef Petruk",
+      "predicate": "дата рождения",
+      "object": "1944",
+      "pid": "P569",
+      "qid": "Q11731132"
+    }
+  },
+  {
+    "id": 181,
+    "text": "Куниаки Тацута родился в 1996 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11598377",
+    "fact": {
+      "subject": "Куниаки Тацута",
+      "predicate": "дата рождения",
+      "object": "1996",
+      "pid": "P569",
+      "qid": "Q11598377"
+    }
+  },
+  {
+    "id": 92,
+    "text": "Нобору Окитани родился в 1957 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11553031",
+    "fact": {
+      "subject": "Нобору Окитани",
+      "predicate": "дата рождения",
+      "object": "1957",
+      "pid": "P569",
+      "qid": "Q11553031"
+    }
+  },
+  {
+    "id": 145,
+    "text": "Zainuddin Rasad умер в 1959 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q12525396",
+    "fact": {
+      "subject": "Zainuddin Rasad",
+      "predicate": "дата смерти",
+      "object": "1959",
+      "pid": "P570",
+      "qid": "Q12525396"
+    }
+  },
+  {
+    "id": 272,
+    "text": "John G. Goldsmith родился в 1245 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6234502",
+    "fact": {
+      "subject": "John G. Goldsmith",
+      "predicate": "дата рождения",
+      "object": "1245",
+      "pid": "P569",
+      "qid": "Q6234502"
+    }
+  },
+  {
+    "id": 56,
+    "text": "Peter Brüning умер в 1970 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1373454",
+    "fact": {
+      "subject": "Peter Brüning",
+      "predicate": "дата смерти",
+      "object": "1970",
+      "pid": "P570",
+      "qid": "Q1373454"
+    }
+  },
+  {
+    "id": 114,
+    "text": "Roy Judkins родился в 1943 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q7373015",
+    "fact": {
+      "subject": "Roy Judkins",
+      "predicate": "дата рождения",
+      "object": "1943",
+      "pid": "P569",
+      "qid": "Q7373015"
+    }
+  },
+  {
+    "id": 143,
+    "text": "Jill Cruwys родился в 1943 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6192785",
+    "fact": {
+      "subject": "Jill Cruwys",
+      "predicate": "дата рождения",
+      "object": "1943",
+      "pid": "P569",
+      "qid": "Q6192785"
+    }
+  },
+  {
+    "id": 111,
+    "text": "Charles Desbassayns умер в 1863 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q2958883",
+    "fact": {
+      "subject": "Charles Desbassayns",
+      "predicate": "дата смерти",
+      "object": "1863",
+      "pid": "P570",
+      "qid": "Q2958883"
+    }
+  },
+  {
+    "id": 263,
+    "text": "William O'Connor умер в 1666 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q8016233",
+    "fact": {
+      "subject": "William O'Connor",
+      "predicate": "дата смерти",
+      "object": "1666",
+      "pid": "P570",
+      "qid": "Q8016233"
+    }
+  },
+  {
+    "id": 235,
+    "text": "Arcangelo Pisani родился в 1517 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q18224336",
+    "fact": {
+      "subject": "Arcangelo Pisani",
+      "predicate": "дата рождения",
+      "object": "1517",
+      "pid": "P569",
+      "qid": "Q18224336"
+    }
+  },
+  {
+    "id": 304,
+    "text": "Bernd Ott родился в 1949 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q823981",
+    "fact": {
+      "subject": "Bernd Ott",
+      "predicate": "дата рождения",
+      "object": "1949",
+      "pid": "P569",
+      "qid": "Q823981"
+    }
+  },
+  {
+    "id": 316,
+    "text": "Билл Блэк родился в 1960 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q4908161",
+    "fact": {
+      "subject": "Билл Блэк",
+      "predicate": "дата рождения",
+      "object": "1960",
+      "pid": "P569",
+      "qid": "Q4908161"
+    }
+  },
+  {
+    "id": 236,
+    "text": "Туомас Салминен родился в 0813 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11898644",
+    "fact": {
+      "subject": "Туомас Салминен",
+      "predicate": "дата рождения",
+      "object": "0813",
+      "pid": "P569",
+      "qid": "Q11898644"
+    }
+  },
+  {
+    "id": 234,
+    "text": "Уилл Сессомс родился в 1648 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q8003081",
+    "fact": {
+      "subject": "Уилл Сессомс",
+      "predicate": "дата рождения",
+      "object": "1648",
+      "pid": "P569",
+      "qid": "Q8003081"
+    }
+  },
+  {
+    "id": 94,
+    "text": "Ибрахим ибн Адхам родился в 0718 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q2665215",
+    "fact": {
+      "subject": "Ибрахим ибн Адхам",
+      "predicate": "дата рождения",
+      "object": "0718",
+      "pid": "P569",
+      "qid": "Q2665215"
+    }
+  },
+  {
+    "id": 320,
+    "text": "Georg Schirmbeck родился в 1949 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q1224971",
+    "fact": {
+      "subject": "Georg Schirmbeck",
+      "predicate": "дата рождения",
+      "object": "1949",
+      "pid": "P569",
+      "qid": "Q1224971"
+    }
+  },
+  {
+    "id": 115,
+    "text": "Березовский, Виктор Антонович умер в 1973 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q16536553",
+    "fact": {
+      "subject": "Березовский, Виктор Антонович",
+      "predicate": "дата смерти",
+      "object": "1973",
+      "pid": "P570",
+      "qid": "Q16536553"
+    }
+  },
+  {
+    "id": 308,
+    "text": "Joseph Lehmann умер в 1949 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q3185245",
+    "fact": {
+      "subject": "Joseph Lehmann",
+      "predicate": "дата смерти",
+      "object": "1949",
+      "pid": "P570",
+      "qid": "Q3185245"
+    }
+  },
+  {
+    "id": 306,
+    "text": "William Berryman умер в 1816 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q6167576",
+    "fact": {
+      "subject": "William Berryman",
+      "predicate": "дата смерти",
+      "object": "1816",
+      "pid": "P570",
+      "qid": "Q6167576"
+    }
+  },
+  {
+    "id": 45,
+    "text": "Самуил Яковлевич Маршак умер в 1964 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q435584",
+    "fact": {
+      "subject": "Самуил Яковлевич Маршак",
+      "predicate": "дата смерти",
+      "object": "1964",
+      "pid": "P570",
+      "qid": "Q435584"
+    }
+  },
+  {
+    "id": 307,
+    "text": "Dragutin Pokorný умер в 1956 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q11825898",
+    "fact": {
+      "subject": "Dragutin Pokorný",
+      "predicate": "дата смерти",
+      "object": "1956",
+      "pid": "P570",
+      "qid": "Q11825898"
+    }
+  },
+  {
+    "id": 319,
+    "text": "Chucho Navarro Jr. родился в 1956 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q18753689",
+    "fact": {
+      "subject": "Chucho Navarro Jr.",
+      "predicate": "дата рождения",
+      "object": "1956",
+      "pid": "P569",
+      "qid": "Q18753689"
+    }
+  },
+  {
+    "id": 348,
+    "text": "ršād ʿbd al-lh al-šāmī родился в 1943 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q6791886",
+    "fact": {
+      "subject": "ršād ʿbd al-lh al-šāmī",
+      "predicate": "дата рождения",
+      "object": "1943",
+      "pid": "P569",
+      "qid": "Q6791886"
+    }
+  },
+  {
+    "id": 148,
+    "text": "Wajdi Francis умер в 2017 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q13142372",
+    "fact": {
+      "subject": "Wajdi Francis",
+      "predicate": "дата смерти",
+      "object": "2017",
+      "pid": "P570",
+      "qid": "Q13142372"
+    }
+  },
+  {
+    "id": 190,
+    "text": "John Joe O'Reilly умер в 0305 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q6241885",
+    "fact": {
+      "subject": "John Joe O'Reilly",
+      "predicate": "дата смерти",
+      "object": "0305",
+      "pid": "P570",
+      "qid": "Q6241885"
+    }
+  },
+  {
+    "id": 123,
+    "text": "Бернардо Бернардо умер в 2018 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q12962122",
+    "fact": {
+      "subject": "Бернардо Бернардо",
+      "predicate": "дата смерти",
+      "object": "2018",
+      "pid": "P570",
+      "qid": "Q12962122"
+    }
+  },
+  {
+    "id": 341,
+    "text": "Chris Balderstone умер в 2000 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q3528380",
+    "fact": {
+      "subject": "Chris Balderstone",
+      "predicate": "дата смерти",
+      "object": "2000",
+      "pid": "P570",
+      "qid": "Q3528380"
+    }
+  },
+  {
+    "id": 233,
+    "text": "Nji Oumarou Nchare родился в 1931 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16193779",
+    "fact": {
+      "subject": "Nji Oumarou Nchare",
+      "predicate": "дата рождения",
+      "object": "1931",
+      "pid": "P569",
+      "qid": "Q16193779"
+    }
+  },
+  {
+    "id": 207,
+    "text": "Franz Abbé умер в 1818 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q3752113",
+    "fact": {
+      "subject": "Franz Abbé",
+      "predicate": "дата смерти",
+      "object": "1818",
+      "pid": "P570",
+      "qid": "Q3752113"
+    }
+  },
+  {
+    "id": 128,
+    "text": "Joan d'Alòs i Serradora умер в 1695 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q11928002",
+    "fact": {
+      "subject": "Joan d'Alòs i Serradora",
+      "predicate": "дата смерти",
+      "object": "1695",
+      "pid": "P570",
+      "qid": "Q11928002"
+    }
+  },
+  {
+    "id": 170,
+    "text": "Zsolt Boldogkői родился в 0665 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q18701282",
+    "fact": {
+      "subject": "Zsolt Boldogkői",
+      "predicate": "дата рождения",
+      "object": "0665",
+      "pid": "P569",
+      "qid": "Q18701282"
+    }
+  },
+  {
+    "id": 38,
+    "text": "Mohamed Hussain Aamer родился в 1938 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q12240409",
+    "fact": {
+      "subject": "Mohamed Hussain Aamer",
+      "predicate": "дата рождения",
+      "object": "1938",
+      "pid": "P569",
+      "qid": "Q12240409"
+    }
+  },
+  {
+    "id": 273,
+    "text": "Бернардо Бернардо умер в 0974 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q12962122",
+    "fact": {
+      "subject": "Бернардо Бернардо",
+      "predicate": "дата смерти",
+      "object": "0974",
+      "pid": "P570",
+      "qid": "Q12962122"
+    }
+  },
+  {
+    "id": 101,
+    "text": "Курбаков, Константин Иванович родился в 1927 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q4247852",
+    "fact": {
+      "subject": "Курбаков, Константин Иванович",
+      "predicate": "дата рождения",
+      "object": "1927",
+      "pid": "P569",
+      "qid": "Q4247852"
+    }
+  },
+  {
+    "id": 142,
+    "text": "Гарри Джонс родился в 1791 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16065827",
+    "fact": {
+      "subject": "Гарри Джонс",
+      "predicate": "дата рождения",
+      "object": "1791",
+      "pid": "P569",
+      "qid": "Q16065827"
+    }
+  },
+  {
+    "id": 163,
+    "text": "Элиза Дрэббен родился в 1861 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q5829533",
+    "fact": {
+      "subject": "Элиза Дрэббен",
+      "predicate": "дата рождения",
+      "object": "1861",
+      "pid": "P569",
+      "qid": "Q5829533"
+    }
+  },
+  {
+    "id": 250,
+    "text": "Валентина Варгас родился в 0741 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q260909",
+    "fact": {
+      "subject": "Валентина Варгас",
+      "predicate": "дата рождения",
+      "object": "0741",
+      "pid": "P569",
+      "qid": "Q260909"
+    }
+  },
+  {
+    "id": 113,
+    "text": "William O'Connor умер в 1987 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q8016233",
+    "fact": {
+      "subject": "William O'Connor",
+      "predicate": "дата смерти",
+      "object": "1987",
+      "pid": "P570",
+      "qid": "Q8016233"
+    }
+  },
+  {
+    "id": 95,
+    "text": "Nico Carstens умер в 2016 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q7028768",
+    "fact": {
+      "subject": "Nico Carstens",
+      "predicate": "дата смерти",
+      "object": "2016",
+      "pid": "P570",
+      "qid": "Q7028768"
+    }
+  },
+  {
+    "id": 122,
+    "text": "John G. Goldsmith родился в 1909 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6234502",
+    "fact": {
+      "subject": "John G. Goldsmith",
+      "predicate": "дата рождения",
+      "object": "1909",
+      "pid": "P569",
+      "qid": "Q6234502"
+    }
+  },
+  {
+    "id": 116,
+    "text": "Джон Макнейр родился в 1889 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3180971",
+    "fact": {
+      "subject": "Джон Макнейр",
+      "predicate": "дата рождения",
+      "object": "1889",
+      "pid": "P569",
+      "qid": "Q3180971"
+    }
+  },
+  {
+    "id": 262,
+    "text": "Domenico Santoro умер в 1083 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q3713234",
+    "fact": {
+      "subject": "Domenico Santoro",
+      "predicate": "дата смерти",
+      "object": "1083",
+      "pid": "P570",
+      "qid": "Q3713234"
+    }
+  },
+  {
+    "id": 206,
+    "text": "Peter Brüning умер в 1305 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1373454",
+    "fact": {
+      "subject": "Peter Brüning",
+      "predicate": "дата смерти",
+      "object": "1305",
+      "pid": "P570",
+      "qid": "Q1373454"
+    }
+  },
+  {
+    "id": 276,
+    "text": "Иоаким I умер в 1668 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q3023997",
+    "fact": {
+      "subject": "Иоаким I",
+      "predicate": "дата смерти",
+      "object": "1668",
+      "pid": "P570",
+      "qid": "Q3023997"
+    }
+  },
+  {
+    "id": 217,
+    "text": "Ёдзо Мори родился в 1616 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11540316",
+    "fact": {
+      "subject": "Ёдзо Мори",
+      "predicate": "дата рождения",
+      "object": "1616",
+      "pid": "P569",
+      "qid": "Q11540316"
+    }
+  },
+  {
+    "id": 154,
+    "text": "Archibald Bodkin родился в 0628 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q4786222",
+    "fact": {
+      "subject": "Archibald Bodkin",
+      "predicate": "дата рождения",
+      "object": "0628",
+      "pid": "P569",
+      "qid": "Q4786222"
+    }
+  },
+  {
+    "id": 102,
+    "text": "Dimitrios Frangopoulos родился в 1801 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q1151407",
+    "fact": {
+      "subject": "Dimitrios Frangopoulos",
+      "predicate": "дата рождения",
+      "object": "1801",
+      "pid": "P569",
+      "qid": "Q1151407"
+    }
+  },
+  {
+    "id": 127,
+    "text": "Джоэл Майклз родился в 2000 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q9012349",
+    "fact": {
+      "subject": "Джоэл Майклз",
+      "predicate": "дата рождения",
+      "object": "2000",
+      "pid": "P569",
+      "qid": "Q9012349"
+    }
+  },
+  {
+    "id": 312,
+    "text": "Giuseppe Paratore родился в 1876 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q260767",
+    "fact": {
+      "subject": "Giuseppe Paratore",
+      "predicate": "дата рождения",
+      "object": "1876",
+      "pid": "P569",
+      "qid": "Q260767"
+    }
+  },
+  {
+    "id": 62,
+    "text": "Роберт Геррик умер в 1938 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q2393651",
+    "fact": {
+      "subject": "Роберт Геррик",
+      "predicate": "дата смерти",
+      "object": "1938",
+      "pid": "P570",
+      "qid": "Q2393651"
+    }
+  },
+  {
+    "id": 200,
+    "text": "Neiman Gracie родился в 0503 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q15987803",
+    "fact": {
+      "subject": "Neiman Gracie",
+      "predicate": "дата рождения",
+      "object": "0503",
+      "pid": "P569",
+      "qid": "Q15987803"
+    }
+  },
+  {
+    "id": 172,
+    "text": "Jeanne Faust родился в 1286 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q1686011",
+    "fact": {
+      "subject": "Jeanne Faust",
+      "predicate": "дата рождения",
+      "object": "1286",
+      "pid": "P569",
+      "qid": "Q1686011"
+    }
+  },
+  {
+    "id": 265,
+    "text": "Березовский, Виктор Антонович умер в 0802 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q16536553",
+    "fact": {
+      "subject": "Березовский, Виктор Антонович",
+      "predicate": "дата смерти",
+      "object": "0802",
+      "pid": "P570",
+      "qid": "Q16536553"
+    }
+  },
+  {
+    "id": 199,
+    "text": "Пауль Эрдманн Изерт умер в 0754 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q67873",
+    "fact": {
+      "subject": "Пауль Эрдманн Изерт",
+      "predicate": "дата смерти",
+      "object": "0754",
+      "pid": "P570",
+      "qid": "Q67873"
+    }
+  },
+  {
+    "id": 84,
+    "text": "Уилл Сессомс родился в 1954 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q8003081",
+    "fact": {
+      "subject": "Уилл Сессомс",
+      "predicate": "дата рождения",
+      "object": "1954",
+      "pid": "P569",
+      "qid": "Q8003081"
+    }
+  },
+  {
+    "id": 51,
+    "text": "Clary Morales родился в 1876 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q4968067",
+    "fact": {
+      "subject": "Clary Morales",
+      "predicate": "дата рождения",
+      "object": "1876",
+      "pid": "P569",
+      "qid": "Q4968067"
+    }
+  },
+  {
+    "id": 133,
+    "text": "Мэри Вудвайн родился в 1967 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6780985",
+    "fact": {
+      "subject": "Мэри Вудвайн",
+      "predicate": "дата рождения",
+      "object": "1967",
+      "pid": "P569",
+      "qid": "Q6780985"
+    }
+  },
+  {
+    "id": 112,
+    "text": "Domenico Santoro умер в 1903 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q3713234",
+    "fact": {
+      "subject": "Domenico Santoro",
+      "predicate": "дата смерти",
+      "object": "1903",
+      "pid": "P570",
+      "qid": "Q3713234"
+    }
+  },
+  {
+    "id": 277,
+    "text": "Джоэл Майклз родился в 1080 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q9012349",
+    "fact": {
+      "subject": "Джоэл Майклз",
+      "predicate": "дата рождения",
+      "object": "1080",
+      "pid": "P569",
+      "qid": "Q9012349"
+    }
+  },
+  {
+    "id": 244,
+    "text": "Ибрахим ибн Адхам родился в 1094 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q2665215",
+    "fact": {
+      "subject": "Ибрахим ибн Адхам",
+      "predicate": "дата рождения",
+      "object": "1094",
+      "pid": "P569",
+      "qid": "Q2665215"
+    }
+  },
+  {
+    "id": 41,
+    "text": "Федерико Зарди умер в 1971 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q3741951",
+    "fact": {
+      "subject": "Федерико Зарди",
+      "predicate": "дата смерти",
+      "object": "1971",
+      "pid": "P570",
+      "qid": "Q3741951"
+    }
+  },
+  {
+    "id": 219,
+    "text": "Хироси Такэути родился в 1368 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11598925",
+    "fact": {
+      "subject": "Хироси Такэути",
+      "predicate": "дата рождения",
+      "object": "1368",
+      "pid": "P569",
+      "qid": "Q11598925"
+    }
+  },
+  {
+    "id": 180,
+    "text": "Серик Нуртаевич Баймаганбетов родился в 0401 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q461089",
+    "fact": {
+      "subject": "Серик Нуртаевич Баймаганбетов",
+      "predicate": "дата рождения",
+      "object": "0401",
+      "pid": "P569",
+      "qid": "Q461089"
+    }
+  },
+  {
+    "id": 248,
+    "text": "Wolfgang Pohl родился в 1113 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q2590884",
+    "fact": {
+      "subject": "Wolfgang Pohl",
+      "predicate": "дата рождения",
+      "object": "1113",
+      "pid": "P569",
+      "qid": "Q2590884"
+    }
+  },
+  {
+    "id": 254,
+    "text": "Masaki Kawakami родился в 0845 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11477581",
+    "fact": {
+      "subject": "Masaki Kawakami",
+      "predicate": "дата рождения",
+      "object": "0845",
+      "pid": "P569",
+      "qid": "Q11477581"
+    }
+  },
+  {
+    "id": 247,
+    "text": "Jean Ivoula родился в 0832 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3172751",
+    "fact": {
+      "subject": "Jean Ivoula",
+      "predicate": "дата рождения",
+      "object": "0832",
+      "pid": "P569",
+      "qid": "Q3172751"
+    }
+  },
+  {
+    "id": 216,
+    "text": "Frans Sandstedt родился в 1865 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11859973",
+    "fact": {
+      "subject": "Frans Sandstedt",
+      "predicate": "дата рождения",
+      "object": "1865",
+      "pid": "P569",
+      "qid": "Q11859973"
+    }
+  },
+  {
+    "id": 260,
+    "text": "Говард Сайлер умер в 0988 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1631912",
+    "fact": {
+      "subject": "Говард Сайлер",
+      "predicate": "дата смерти",
+      "object": "0988",
+      "pid": "P570",
+      "qid": "Q1631912"
+    }
+  },
+  {
+    "id": 241,
+    "text": "Robert Lado умер в 1223 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q3435637",
+    "fact": {
+      "subject": "Robert Lado",
+      "predicate": "дата смерти",
+      "object": "1223",
+      "pid": "P570",
+      "qid": "Q3435637"
+    }
+  },
+  {
+    "id": 226,
+    "text": "Jai Narain Prasad Nishad умер в 0074 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q6123428",
+    "fact": {
+      "subject": "Jai Narain Prasad Nishad",
+      "predicate": "дата смерти",
+      "object": "0074",
+      "pid": "P570",
+      "qid": "Q6123428"
+    }
+  },
+  {
+    "id": 196,
+    "text": "John Orr умер в 1218 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q6251326",
+    "fact": {
+      "subject": "John Orr",
+      "predicate": "дата смерти",
+      "object": "1218",
+      "pid": "P570",
+      "qid": "Q6251326"
+    }
+  },
+  {
+    "id": 53,
+    "text": "Aapeli Halonen родился в 1863 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q18702120",
+    "fact": {
+      "subject": "Aapeli Halonen",
+      "predicate": "дата рождения",
+      "object": "1863",
+      "pid": "P569",
+      "qid": "Q18702120"
+    }
+  },
+  {
+    "id": 74,
+    "text": "Ян Николай Радзивилл родился в 1681 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q2616838",
+    "fact": {
+      "subject": "Ян Николай Радзивилл",
+      "predicate": "дата рождения",
+      "object": "1681",
+      "pid": "P569",
+      "qid": "Q2616838"
+    }
+  },
+  {
+    "id": 152,
+    "text": "Hans Reddemann родился в 1164 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q1581925",
+    "fact": {
+      "subject": "Hans Reddemann",
+      "predicate": "дата рождения",
+      "object": "1164",
+      "pid": "P569",
+      "qid": "Q1581925"
+    }
+  },
+  {
+    "id": 68,
+    "text": "Lyn Gardner родился в 1901 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6708319",
+    "fact": {
+      "subject": "Lyn Gardner",
+      "predicate": "дата рождения",
+      "object": "1901",
+      "pid": "P569",
+      "qid": "Q6708319"
+    }
+  },
+  {
+    "id": 108,
+    "text": "Vincenzo Acquaviva умер в 1902 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q7932201",
+    "fact": {
+      "subject": "Vincenzo Acquaviva",
+      "predicate": "дата смерти",
+      "object": "1902",
+      "pid": "P570",
+      "qid": "Q7932201"
+    }
+  },
+  {
+    "id": 10,
+    "text": "Suphi Ergene умер в 1985 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q17431947",
+    "fact": {
+      "subject": "Suphi Ergene",
+      "predicate": "дата смерти",
+      "object": "1985",
+      "pid": "P570",
+      "qid": "Q17431947"
+    }
+  },
+  {
+    "id": 295,
+    "text": "Zainuddin Rasad умер в 1866 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q12525396",
+    "fact": {
+      "subject": "Zainuddin Rasad",
+      "predicate": "дата смерти",
+      "object": "1866",
+      "pid": "P570",
+      "qid": "Q12525396"
+    }
+  },
+  {
+    "id": 139,
+    "text": "Скрыпин, Роман Андреевич родился в 1973 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q4422607",
+    "fact": {
+      "subject": "Скрыпин, Роман Андреевич",
+      "predicate": "дата рождения",
+      "object": "1973",
+      "pid": "P569",
+      "qid": "Q4422607"
+    }
+  },
+  {
+    "id": 252,
+    "text": "Dimitrios Frangopoulos родился в 1131 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q1151407",
+    "fact": {
+      "subject": "Dimitrios Frangopoulos",
+      "predicate": "дата рождения",
+      "object": "1131",
+      "pid": "P569",
+      "qid": "Q1151407"
+    }
+  },
+  {
+    "id": 171,
+    "text": "Морис Крейг умер в 1385 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q17984459",
+    "fact": {
+      "subject": "Морис Крейг",
+      "predicate": "дата смерти",
+      "object": "1385",
+      "pid": "P570",
+      "qid": "Q17984459"
+    }
+  },
+  {
+    "id": 271,
+    "text": "Jesse McI. Carter умер в 1792 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q14629448",
+    "fact": {
+      "subject": "Jesse McI. Carter",
+      "predicate": "дата смерти",
+      "object": "1792",
+      "pid": "P570",
+      "qid": "Q14629448"
+    }
+  },
+  {
+    "id": 157,
+    "text": "James McConnell родился в 0603 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3161264",
+    "fact": {
+      "subject": "James McConnell",
+      "predicate": "дата рождения",
+      "object": "0603",
+      "pid": "P569",
+      "qid": "Q3161264"
+    }
+  },
+  {
+    "id": 89,
+    "text": "Moncef Ben Salem родился в 1953 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3320435",
+    "fact": {
+      "subject": "Moncef Ben Salem",
+      "predicate": "дата рождения",
+      "object": "1953",
+      "pid": "P569",
+      "qid": "Q3320435"
+    }
+  },
+  {
+    "id": 126,
+    "text": "Иоаким I умер в 1504 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q3023997",
+    "fact": {
+      "subject": "Иоаким I",
+      "predicate": "дата смерти",
+      "object": "1504",
+      "pid": "P570",
+      "qid": "Q3023997"
+    }
+  },
+  {
+    "id": 166,
+    "text": "Юэ Оотэра родился в 1516 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11434519",
+    "fact": {
+      "subject": "Юэ Оотэра",
+      "predicate": "дата рождения",
+      "object": "1516",
+      "pid": "P569",
+      "qid": "Q11434519"
+    }
+  },
+  {
+    "id": 339,
+    "text": "Douglas Evan Cameron умер в 2000 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q9210379",
+    "fact": {
+      "subject": "Douglas Evan Cameron",
+      "predicate": "дата смерти",
+      "object": "2000",
+      "pid": "P570",
+      "qid": "Q9210379"
+    }
+  },
+  {
+    "id": 186,
+    "text": "Maja Rydman родился в 0895 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q17383407",
+    "fact": {
+      "subject": "Maja Rydman",
+      "predicate": "дата рождения",
+      "object": "0895",
+      "pid": "P569",
+      "qid": "Q17383407"
+    }
+  },
+  {
+    "id": 49,
+    "text": "Пауль Эрдманн Изерт умер в 1789 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q67873",
+    "fact": {
+      "subject": "Пауль Эрдманн Изерт",
+      "predicate": "дата смерти",
+      "object": "1789",
+      "pid": "P570",
+      "qid": "Q67873"
+    }
+  },
+  {
+    "id": 6,
+    "text": "Robert W. Rönström родился в 1929 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6087012",
+    "fact": {
+      "subject": "Robert W. Rönström",
+      "predicate": "дата рождения",
+      "object": "1929",
+      "pid": "P569",
+      "qid": "Q6087012"
+    }
+  },
+  {
+    "id": 93,
+    "text": "Kurt Knaak родился в 1902 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q1793731",
+    "fact": {
+      "subject": "Kurt Knaak",
+      "predicate": "дата рождения",
+      "object": "1902",
+      "pid": "P569",
+      "qid": "Q1793731"
+    }
+  },
+  {
+    "id": 349,
+    "text": "Pío Tamayo родился в 1898 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q9065047",
+    "fact": {
+      "subject": "Pío Tamayo",
+      "predicate": "дата рождения",
+      "object": "1898",
+      "pid": "P569",
+      "qid": "Q9065047"
+    }
+  },
+  {
+    "id": 106,
+    "text": "Chuck Sammarone родился в 1943 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q5115697",
+    "fact": {
+      "subject": "Chuck Sammarone",
+      "predicate": "дата рождения",
+      "object": "1943",
+      "pid": "P569",
+      "qid": "Q5115697"
+    }
+  },
+  {
+    "id": 300,
+    "text": "Ёримаса Санада умер в 1506 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q11583411",
+    "fact": {
+      "subject": "Ёримаса Санада",
+      "predicate": "дата смерти",
+      "object": "1506",
+      "pid": "P570",
+      "qid": "Q11583411"
+    }
+  },
+  {
+    "id": 345,
+    "text": "Ulrich Minkus родился в 1940 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q2476347",
+    "fact": {
+      "subject": "Ulrich Minkus",
+      "predicate": "дата рождения",
+      "object": "1940",
+      "pid": "P569",
+      "qid": "Q2476347"
+    }
+  },
+  {
+    "id": 109,
+    "text": "Marquess Qing of Yan умер в 0767 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1652663",
+    "fact": {
+      "subject": "Marquess Qing of Yan",
+      "predicate": "дата смерти",
+      "object": "0767",
+      "pid": "P570",
+      "qid": "Q1652663"
+    }
+  },
+  {
+    "id": 31,
+    "text": "Куниаки Тацута родился в 1940 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11598377",
+    "fact": {
+      "subject": "Куниаки Тацута",
+      "predicate": "дата рождения",
+      "object": "1940",
+      "pid": "P569",
+      "qid": "Q11598377"
+    }
+  },
+  {
+    "id": 279,
+    "text": "Kōrō Honjō родился в 1245 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3951073",
+    "fact": {
+      "subject": "Kōrō Honjō",
+      "predicate": "дата рождения",
+      "object": "1245",
+      "pid": "P569",
+      "qid": "Q3951073"
+    }
+  },
+  {
+    "id": 179,
+    "text": "Natiq Yusifov умер в 1636 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q16334137",
+    "fact": {
+      "subject": "Natiq Yusifov",
+      "predicate": "дата смерти",
+      "object": "1636",
+      "pid": "P570",
+      "qid": "Q16334137"
+    }
+  },
+  {
+    "id": 5,
+    "text": "Милан Шуфлай родился в 1879 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q1280614",
+    "fact": {
+      "subject": "Милан Шуфлай",
+      "predicate": "дата рождения",
+      "object": "1879",
+      "pid": "P569",
+      "qid": "Q1280614"
+    }
+  },
+  {
+    "id": 257,
+    "text": "Giuseppe Pisani умер в 1438 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q14632986",
+    "fact": {
+      "subject": "Giuseppe Pisani",
+      "predicate": "дата смерти",
+      "object": "1438",
+      "pid": "P570",
+      "qid": "Q14632986"
+    }
+  },
+  {
+    "id": 83,
+    "text": "Nji Oumarou Nchare родился в 1964 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16193779",
+    "fact": {
+      "subject": "Nji Oumarou Nchare",
+      "predicate": "дата рождения",
+      "object": "1964",
+      "pid": "P569",
+      "qid": "Q16193779"
+    }
+  },
+  {
+    "id": 100,
+    "text": "Валентина Варгас родился в 1964 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q260909",
+    "fact": {
+      "subject": "Валентина Варгас",
+      "predicate": "дата рождения",
+      "object": "1964",
+      "pid": "P569",
+      "qid": "Q260909"
+    }
+  },
+  {
+    "id": 232,
+    "text": "Ferenc Ősz родился в 1538 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q1473614",
+    "fact": {
+      "subject": "Ferenc Ősz",
+      "predicate": "дата рождения",
+      "object": "1538",
+      "pid": "P569",
+      "qid": "Q1473614"
+    }
+  },
+  {
+    "id": 59,
+    "text": "Hermania Neergaard родился в 1799 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q12316605",
+    "fact": {
+      "subject": "Hermania Neergaard",
+      "predicate": "дата рождения",
+      "object": "1799",
+      "pid": "P569",
+      "qid": "Q12316605"
+    }
+  },
+  {
+    "id": 11,
+    "text": "Ed Sherman умер в 2009 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q5335401",
+    "fact": {
+      "subject": "Ed Sherman",
+      "predicate": "дата смерти",
+      "object": "2009",
+      "pid": "P570",
+      "qid": "Q5335401"
+    }
+  },
+  {
+    "id": 46,
+    "text": "John Orr умер в 1935 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q6251326",
+    "fact": {
+      "subject": "John Orr",
+      "predicate": "дата смерти",
+      "object": "1935",
+      "pid": "P570",
+      "qid": "Q6251326"
+    }
+  },
+  {
+    "id": 129,
+    "text": "Kōrō Honjō родился в 1907 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3951073",
+    "fact": {
+      "subject": "Kōrō Honjō",
+      "predicate": "дата рождения",
+      "object": "1907",
+      "pid": "P569",
+      "qid": "Q3951073"
+    }
+  },
+  {
+    "id": 326,
+    "text": "Герхард Тибен родился в 1922 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q2066904",
+    "fact": {
+      "subject": "Герхард Тибен",
+      "predicate": "дата рождения",
+      "object": "1922",
+      "pid": "P569",
+      "qid": "Q2066904"
+    }
+  },
+  {
+    "id": 238,
+    "text": "Jacqueline Bechet-Ferber умер в 1425 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q3157674",
+    "fact": {
+      "subject": "Jacqueline Bechet-Ferber",
+      "predicate": "дата смерти",
+      "object": "1425",
+      "pid": "P570",
+      "qid": "Q3157674"
+    }
+  },
+  {
+    "id": 240,
+    "text": "Вологин, Александр Дмитриевич родился в 0955 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q4123676",
+    "fact": {
+      "subject": "Вологин, Александр Дмитриевич",
+      "predicate": "дата рождения",
+      "object": "0955",
+      "pid": "P569",
+      "qid": "Q4123676"
+    }
+  },
+  {
+    "id": 88,
+    "text": "Jacqueline Bechet-Ferber умер в 2020 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q3157674",
+    "fact": {
+      "subject": "Jacqueline Bechet-Ferber",
+      "predicate": "дата смерти",
+      "object": "2020",
+      "pid": "P570",
+      "qid": "Q3157674"
+    }
+  },
+  {
+    "id": 334,
+    "text": "Daisy Khan родился в 1958 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q5209734",
+    "fact": {
+      "subject": "Daisy Khan",
+      "predicate": "дата рождения",
+      "object": "1958",
+      "pid": "P569",
+      "qid": "Q5209734"
+    }
+  },
+  {
+    "id": 33,
+    "text": "Saïd Akl родился в 1888 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3474765",
+    "fact": {
+      "subject": "Saïd Akl",
+      "predicate": "дата рождения",
+      "object": "1888",
+      "pid": "P569",
+      "qid": "Q3474765"
+    }
+  },
+  {
+    "id": 299,
+    "text": "Curtis Mosby родился в 0718 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q5195835",
+    "fact": {
+      "subject": "Curtis Mosby",
+      "predicate": "дата рождения",
+      "object": "0718",
+      "pid": "P569",
+      "qid": "Q5195835"
+    }
+  },
+  {
+    "id": 155,
+    "text": "Милан Шуфлай родился в 1508 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q1280614",
+    "fact": {
+      "subject": "Милан Шуфлай",
+      "predicate": "дата рождения",
+      "object": "1508",
+      "pid": "P569",
+      "qid": "Q1280614"
+    }
+  },
+  {
+    "id": 267,
+    "text": "Arthur Granville Soames умер в 0548 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q4798877",
+    "fact": {
+      "subject": "Arthur Granville Soames",
+      "predicate": "дата смерти",
+      "object": "0548",
+      "pid": "P570",
+      "qid": "Q4798877"
+    }
+  },
+  {
+    "id": 9,
+    "text": "Valentin von Streffleur умер в 1870 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q18612926",
+    "fact": {
+      "subject": "Valentin von Streffleur",
+      "predicate": "дата смерти",
+      "object": "1870",
+      "pid": "P570",
+      "qid": "Q18612926"
+    }
+  },
+  {
+    "id": 29,
+    "text": "Natiq Yusifov умер в 2014 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q16334137",
+    "fact": {
+      "subject": "Natiq Yusifov",
+      "predicate": "дата смерти",
+      "object": "2014",
+      "pid": "P570",
+      "qid": "Q16334137"
+    }
+  },
+  {
+    "id": 66,
+    "text": "Frans Sandstedt родился в 1899 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11859973",
+    "fact": {
+      "subject": "Frans Sandstedt",
+      "predicate": "дата рождения",
+      "object": "1899",
+      "pid": "P569",
+      "qid": "Q11859973"
+    }
+  },
+  {
+    "id": 97,
+    "text": "Jean Ivoula родился в 1958 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3172751",
+    "fact": {
+      "subject": "Jean Ivoula",
+      "predicate": "дата рождения",
+      "object": "1958",
+      "pid": "P569",
+      "qid": "Q3172751"
+    }
+  },
+  {
+    "id": 183,
+    "text": "Saïd Akl родился в 3150 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3474765",
+    "fact": {
+      "subject": "Saïd Akl",
+      "predicate": "дата рождения",
+      "object": "3150",
+      "pid": "P569",
+      "qid": "Q3474765"
+    }
+  },
+  {
+    "id": 256,
+    "text": "Chuck Sammarone родился в 1717 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q5115697",
+    "fact": {
+      "subject": "Chuck Sammarone",
+      "predicate": "дата рождения",
+      "object": "1717",
+      "pid": "P569",
+      "qid": "Q5115697"
+    }
+  },
+  {
+    "id": 322,
+    "text": "Коити Матида умер в 1993 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q11578329",
+    "fact": {
+      "subject": "Коити Матида",
+      "predicate": "дата смерти",
+      "object": "1993",
+      "pid": "P570",
+      "qid": "Q11578329"
+    }
+  },
+  {
+    "id": 177,
+    "text": "Fritz Steinhaus умер в 1390 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1468490",
+    "fact": {
+      "subject": "Fritz Steinhaus",
+      "predicate": "дата смерти",
+      "object": "1390",
+      "pid": "P570",
+      "qid": "Q1468490"
+    }
+  },
+  {
+    "id": 344,
+    "text": "Alf Bond родился в 1916 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q4721638",
+    "fact": {
+      "subject": "Alf Bond",
+      "predicate": "дата рождения",
+      "object": "1916",
+      "pid": "P569",
+      "qid": "Q4721638"
+    }
+  },
+  {
+    "id": 301,
+    "text": "Charles-Hubert Gervais умер в 1744 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q327875",
+    "fact": {
+      "subject": "Charles-Hubert Gervais",
+      "predicate": "дата смерти",
+      "object": "1744",
+      "pid": "P570",
+      "qid": "Q327875"
+    }
+  },
+  {
+    "id": 160,
+    "text": "Suphi Ergene умер в 1665 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q17431947",
+    "fact": {
+      "subject": "Suphi Ergene",
+      "predicate": "дата смерти",
+      "object": "1665",
+      "pid": "P570",
+      "qid": "Q17431947"
+    }
+  },
+  {
+    "id": 15,
+    "text": "Хала Седки родился в 1961 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q4116135",
+    "fact": {
+      "subject": "Хала Седки",
+      "predicate": "дата рождения",
+      "object": "1961",
+      "pid": "P569",
+      "qid": "Q4116135"
+    }
+  },
+  {
+    "id": 218,
+    "text": "Lyn Gardner родился в 1235 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6708319",
+    "fact": {
+      "subject": "Lyn Gardner",
+      "predicate": "дата рождения",
+      "object": "1235",
+      "pid": "P569",
+      "qid": "Q6708319"
+    }
+  },
+  {
+    "id": 198,
+    "text": "Date Masamichi умер в 0912 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q10856428",
+    "fact": {
+      "subject": "Date Masamichi",
+      "predicate": "дата смерти",
+      "object": "0912",
+      "pid": "P570",
+      "qid": "Q10856428"
+    }
+  },
+  {
+    "id": 204,
+    "text": "Христиан Фридрих Вебер умер в 0029 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q86499",
+    "fact": {
+      "subject": "Христиан Фридрих Вебер",
+      "predicate": "дата смерти",
+      "object": "0029",
+      "pid": "P570",
+      "qid": "Q86499"
+    }
+  },
+  {
+    "id": 43,
+    "text": "Renzo Titone умер в 2013 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q19358034",
+    "fact": {
+      "subject": "Renzo Titone",
+      "predicate": "дата смерти",
+      "object": "2013",
+      "pid": "P570",
+      "qid": "Q19358034"
+    }
+  },
+  {
+    "id": 287,
+    "text": "Mike Warnke родился в 1368 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6849216",
+    "fact": {
+      "subject": "Mike Warnke",
+      "predicate": "дата рождения",
+      "object": "1368",
+      "pid": "P569",
+      "qid": "Q6849216"
+    }
+  },
+  {
+    "id": 77,
+    "text": "Edwin Knappe умер в 1971 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q5346586",
+    "fact": {
+      "subject": "Edwin Knappe",
+      "predicate": "дата смерти",
+      "object": "1971",
+      "pid": "P570",
+      "qid": "Q5346586"
+    }
+  },
+  {
+    "id": 71,
+    "text": "Isaac Kimber родился в 1692 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16852379",
+    "fact": {
+      "subject": "Isaac Kimber",
+      "predicate": "дата рождения",
+      "object": "1692",
+      "pid": "P569",
+      "qid": "Q16852379"
+    }
+  },
+  {
+    "id": 275,
+    "text": "Dorothy Johnstone умер в 1542 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q19362276",
+    "fact": {
+      "subject": "Dorothy Johnstone",
+      "predicate": "дата смерти",
+      "object": "1542",
+      "pid": "P570",
+      "qid": "Q19362276"
+    }
+  },
+  {
+    "id": 167,
+    "text": "Abbas Abbasov родился в 1905 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16364057",
+    "fact": {
+      "subject": "Abbas Abbasov",
+      "predicate": "дата рождения",
+      "object": "1905",
+      "pid": "P569",
+      "qid": "Q16364057"
+    }
+  },
+  {
+    "id": 182,
+    "text": "Emad Noor родился в 1697 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q5368781",
+    "fact": {
+      "subject": "Emad Noor",
+      "predicate": "дата рождения",
+      "object": "1697",
+      "pid": "P569",
+      "qid": "Q5368781"
+    }
+  },
+  {
+    "id": 118,
+    "text": "Gustav von Vaerst родился в 1894 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q70465",
+    "fact": {
+      "subject": "Gustav von Vaerst",
+      "predicate": "дата рождения",
+      "object": "1894",
+      "pid": "P569",
+      "qid": "Q70465"
+    }
+  },
+  {
+    "id": 318,
+    "text": "Jack Pray родился в 1872 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q6114664",
+    "fact": {
+      "subject": "Jack Pray",
+      "predicate": "дата рождения",
+      "object": "1872",
+      "pid": "P569",
+      "qid": "Q6114664"
+    }
+  },
+  {
+    "id": 7,
+    "text": "James McConnell родился в 1848 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3161264",
+    "fact": {
+      "subject": "James McConnell",
+      "predicate": "дата рождения",
+      "object": "1848",
+      "pid": "P569",
+      "qid": "Q3161264"
+    }
+  },
+  {
+    "id": 14,
+    "text": "Frank Ebenezer Hill родился в 1880 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q5486412",
+    "fact": {
+      "subject": "Frank Ebenezer Hill",
+      "predicate": "дата рождения",
+      "object": "1880",
+      "pid": "P569",
+      "qid": "Q5486412"
+    }
+  },
+  {
+    "id": 323,
+    "text": "Wasyl Ilnycki родился в 1823 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q16614410",
+    "fact": {
+      "subject": "Wasyl Ilnycki",
+      "predicate": "дата рождения",
+      "object": "1823",
+      "pid": "P569",
+      "qid": "Q16614410"
+    }
+  },
+  {
+    "id": 124,
+    "text": "Rolf Kreuder умер в 1995 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1730074",
+    "fact": {
+      "subject": "Rolf Kreuder",
+      "predicate": "дата смерти",
+      "object": "1995",
+      "pid": "P570",
+      "qid": "Q1730074"
+    }
+  },
+  {
+    "id": 138,
+    "text": "Arthur Berger умер в 1958 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q708636",
+    "fact": {
+      "subject": "Arthur Berger",
+      "predicate": "дата смерти",
+      "object": "1958",
+      "pid": "P570",
+      "qid": "Q708636"
+    }
+  },
+  {
+    "id": 105,
+    "text": "Moses Austin умер в 1821 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1747208",
+    "fact": {
+      "subject": "Moses Austin",
+      "predicate": "дата смерти",
+      "object": "1821",
+      "pid": "P570",
+      "qid": "Q1747208"
+    }
+  },
+  {
+    "id": 134,
+    "text": "Анджей Стшелецкий родился в 1952 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q9153673",
+    "fact": {
+      "subject": "Анджей Стшелецкий",
+      "predicate": "дата рождения",
+      "object": "1952",
+      "pid": "P569",
+      "qid": "Q9153673"
+    }
+  },
+  {
+    "id": 76,
+    "text": "Jai Narain Prasad Nishad умер в 2018 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q6123428",
+    "fact": {
+      "subject": "Jai Narain Prasad Nishad",
+      "predicate": "дата смерти",
+      "object": "2018",
+      "pid": "P570",
+      "qid": "Q6123428"
+    }
+  },
+  {
+    "id": 54,
+    "text": "Христиан Фридрих Вебер умер в 1739 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q86499",
+    "fact": {
+      "subject": "Христиан Фридрих Вебер",
+      "predicate": "дата смерти",
+      "object": "1739",
+      "pid": "P570",
+      "qid": "Q86499"
+    }
+  },
+  {
+    "id": 188,
+    "text": "Mohamed Hussain Aamer родился в 0503 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q12240409",
+    "fact": {
+      "subject": "Mohamed Hussain Aamer",
+      "predicate": "дата рождения",
+      "object": "0503",
+      "pid": "P569",
+      "qid": "Q12240409"
+    }
+  },
+  {
+    "id": 298,
+    "text": "Wajdi Francis умер в 1750 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q13142372",
+    "fact": {
+      "subject": "Wajdi Francis",
+      "predicate": "дата смерти",
+      "object": "1750",
+      "pid": "P570",
+      "qid": "Q13142372"
+    }
+  },
+  {
+    "id": 314,
+    "text": "Эразм Грассер родился в 1450 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q896013",
+    "fact": {
+      "subject": "Эразм Грассер",
+      "predicate": "дата рождения",
+      "object": "1450",
+      "pid": "P569",
+      "qid": "Q896013"
+    }
+  },
+  {
+    "id": 331,
+    "text": "Sin Hyeong-cheol родился в 1976 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q16084418",
+    "fact": {
+      "subject": "Sin Hyeong-cheol",
+      "predicate": "дата рождения",
+      "object": "1976",
+      "pid": "P569",
+      "qid": "Q16084418"
+    }
+  },
+  {
+    "id": 296,
+    "text": "Leone Traverso умер в 0643 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1113945",
+    "fact": {
+      "subject": "Leone Traverso",
+      "predicate": "дата смерти",
+      "object": "0643",
+      "pid": "P570",
+      "qid": "Q1113945"
+    }
+  },
+  {
+    "id": 227,
+    "text": "Edwin Knappe умер в 1392 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q5346586",
+    "fact": {
+      "subject": "Edwin Knappe",
+      "predicate": "дата смерти",
+      "object": "1392",
+      "pid": "P570",
+      "qid": "Q5346586"
+    }
+  },
+  {
+    "id": 220,
+    "text": "Korn Chatikavanij родился в 0170 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6407151",
+    "fact": {
+      "subject": "Korn Chatikavanij",
+      "predicate": "дата рождения",
+      "object": "0170",
+      "pid": "P569",
+      "qid": "Q6407151"
+    }
+  },
+  {
+    "id": 162,
+    "text": "Хисанори Нииро родился в 2700 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11503912",
+    "fact": {
+      "subject": "Хисанори Нииро",
+      "predicate": "дата рождения",
+      "object": "2700",
+      "pid": "P569",
+      "qid": "Q11503912"
+    }
+  },
+  {
+    "id": 209,
+    "text": "Hermania Neergaard родился в 1188 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q12316605",
+    "fact": {
+      "subject": "Hermania Neergaard",
+      "predicate": "дата рождения",
+      "object": "1188",
+      "pid": "P569",
+      "qid": "Q12316605"
+    }
+  },
+  {
+    "id": 85,
+    "text": "Arcangelo Pisani родился в 1865 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q18224336",
+    "fact": {
+      "subject": "Arcangelo Pisani",
+      "predicate": "дата рождения",
+      "object": "1865",
+      "pid": "P569",
+      "qid": "Q18224336"
+    }
+  },
+  {
+    "id": 21,
+    "text": "Морис Крейг умер в 2011 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q17984459",
+    "fact": {
+      "subject": "Морис Крейг",
+      "predicate": "дата смерти",
+      "object": "2011",
+      "pid": "P570",
+      "qid": "Q17984459"
+    }
+  },
+  {
+    "id": 20,
+    "text": "Zsolt Boldogkői родился в 1961 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q18701282",
+    "fact": {
+      "subject": "Zsolt Boldogkői",
+      "predicate": "дата рождения",
+      "object": "1961",
+      "pid": "P569",
+      "qid": "Q18701282"
+    }
+  },
+  {
+    "id": 305,
+    "text": "Бельгард, Александр Карлович умер в 1921 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q4083210",
+    "fact": {
+      "subject": "Бельгард, Александр Карлович",
+      "predicate": "дата смерти",
+      "object": "1921",
+      "pid": "P570",
+      "qid": "Q4083210"
+    }
+  },
+  {
+    "id": 161,
+    "text": "Ed Sherman умер в 1031 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q5335401",
+    "fact": {
+      "subject": "Ed Sherman",
+      "predicate": "дата смерти",
+      "object": "1031",
+      "pid": "P570",
+      "qid": "Q5335401"
+    }
+  },
+  {
+    "id": 8,
+    "text": "Ginette Javaux родился в 1915 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3106728",
+    "fact": {
+      "subject": "Ginette Javaux",
+      "predicate": "дата рождения",
+      "object": "1915",
+      "pid": "P569",
+      "qid": "Q3106728"
+    }
+  },
+  {
+    "id": 117,
+    "text": "Arthur Granville Soames умер в 1962 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q4798877",
+    "fact": {
+      "subject": "Arthur Granville Soames",
+      "predicate": "дата смерти",
+      "object": "1962",
+      "pid": "P570",
+      "qid": "Q4798877"
+    }
+  },
+  {
+    "id": 110,
+    "text": "Говард Сайлер умер в 2014 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1631912",
+    "fact": {
+      "subject": "Говард Сайлер",
+      "predicate": "дата смерти",
+      "object": "2014",
+      "pid": "P570",
+      "qid": "Q1631912"
+    }
+  },
+  {
+    "id": 286,
+    "text": "David Turnbull родился в 1704 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q5240523",
+    "fact": {
+      "subject": "David Turnbull",
+      "predicate": "дата рождения",
+      "object": "1704",
+      "pid": "P569",
+      "qid": "Q5240523"
+    }
+  },
+  {
+    "id": 294,
+    "text": "Walter Lienert родился в 1923 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q7965454",
+    "fact": {
+      "subject": "Walter Lienert",
+      "predicate": "дата рождения",
+      "object": "1923",
+      "pid": "P569",
+      "qid": "Q7965454"
+    }
+  },
+  {
+    "id": 40,
+    "text": "John Joe O'Reilly умер в 1967 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q6241885",
+    "fact": {
+      "subject": "John Joe O'Reilly",
+      "predicate": "дата смерти",
+      "object": "1967",
+      "pid": "P570",
+      "qid": "Q6241885"
+    }
+  },
+  {
+    "id": 18,
+    "text": "Edwin R. Chess умер в 2000 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q5346758",
+    "fact": {
+      "subject": "Edwin R. Chess",
+      "predicate": "дата смерти",
+      "object": "2000",
+      "pid": "P570",
+      "qid": "Q5346758"
+    }
+  },
+  {
+    "id": 268,
+    "text": "Gustav von Vaerst родился в 1784 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q70465",
+    "fact": {
+      "subject": "Gustav von Vaerst",
+      "predicate": "дата рождения",
+      "object": "1784",
+      "pid": "P569",
+      "qid": "Q70465"
+    }
+  },
+  {
+    "id": 192,
+    "text": "Алан Ховард умер в 1658 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q4706895",
+    "fact": {
+      "subject": "Алан Ховард",
+      "predicate": "дата смерти",
+      "object": "1658",
+      "pid": "P570",
+      "qid": "Q4706895"
+    }
+  },
+  {
+    "id": 34,
+    "text": "Yulian Kvasnytsia родился в 1960 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q17371851",
+    "fact": {
+      "subject": "Yulian Kvasnytsia",
+      "predicate": "дата рождения",
+      "object": "1960",
+      "pid": "P569",
+      "qid": "Q17371851"
+    }
+  },
+  {
+    "id": 99,
+    "text": "Джек Адамс родился в 1920 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3157111",
+    "fact": {
+      "subject": "Джек Адамс",
+      "predicate": "дата рождения",
+      "object": "1920",
+      "pid": "P569",
+      "qid": "Q3157111"
+    }
+  },
+  {
+    "id": 72,
+    "text": "Кэидзюн Миябэ родился в 1528 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6884170",
+    "fact": {
+      "subject": "Кэидзюн Миябэ",
+      "predicate": "дата рождения",
+      "object": "1528",
+      "pid": "P569",
+      "qid": "Q6884170"
+    }
+  },
+  {
+    "id": 27,
+    "text": "Fritz Steinhaus умер в 1937 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1468490",
+    "fact": {
+      "subject": "Fritz Steinhaus",
+      "predicate": "дата смерти",
+      "object": "1937",
+      "pid": "P570",
+      "qid": "Q1468490"
+    }
+  },
+  {
+    "id": 330,
+    "text": "Laurent Moyse родился в 1964 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q13103714",
+    "fact": {
+      "subject": "Laurent Moyse",
+      "predicate": "дата рождения",
+      "object": "1964",
+      "pid": "P569",
+      "qid": "Q13103714"
+    }
+  },
+  {
+    "id": 283,
+    "text": "Мэри Вудвайн родился в 1217 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6780985",
+    "fact": {
+      "subject": "Мэри Вудвайн",
+      "predicate": "дата рождения",
+      "object": "1217",
+      "pid": "P569",
+      "qid": "Q6780985"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Hans Reddemann родился в 1934 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q1581925",
+    "fact": {
+      "subject": "Hans Reddemann",
+      "predicate": "дата рождения",
+      "object": "1934",
+      "pid": "P569",
+      "qid": "Q1581925"
+    }
+  },
+  {
+    "id": 315,
+    "text": "Robert Tralins родился в 1926 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q7350452",
+    "fact": {
+      "subject": "Robert Tralins",
+      "predicate": "дата рождения",
+      "object": "1926",
+      "pid": "P569",
+      "qid": "Q7350452"
+    }
+  },
+  {
+    "id": 125,
+    "text": "Dorothy Johnstone умер в 1980 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q19362276",
+    "fact": {
+      "subject": "Dorothy Johnstone",
+      "predicate": "дата смерти",
+      "object": "1980",
+      "pid": "P570",
+      "qid": "Q19362276"
+    }
+  },
+  {
+    "id": 211,
+    "text": "Ľubomir Cakev родился в 0981 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q12285440",
+    "fact": {
+      "subject": "Ľubomir Cakev",
+      "predicate": "дата рождения",
+      "object": "0981",
+      "pid": "P569",
+      "qid": "Q12285440"
+    }
+  },
+  {
+    "id": 98,
+    "text": "Wolfgang Pohl родился в 1954 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q2590884",
+    "fact": {
+      "subject": "Wolfgang Pohl",
+      "predicate": "дата рождения",
+      "object": "1954",
+      "pid": "P569",
+      "qid": "Q2590884"
+    }
+  },
+  {
+    "id": 75,
+    "text": "Эрих Кунц родился в 1909 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q78855",
+    "fact": {
+      "subject": "Эрих Кунц",
+      "predicate": "дата рождения",
+      "object": "1909",
+      "pid": "P569",
+      "qid": "Q78855"
+    }
+  },
+  {
+    "id": 310,
+    "text": "Girija Kumar Mathur умер в 1994 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q15647135",
+    "fact": {
+      "subject": "Girija Kumar Mathur",
+      "predicate": "дата смерти",
+      "object": "1994",
+      "pid": "P570",
+      "qid": "Q15647135"
+    }
+  },
+  {
+    "id": 47,
+    "text": "Purea родился в 1700 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q7261162",
+    "fact": {
+      "subject": "Purea",
+      "predicate": "дата рождения",
+      "object": "1700",
+      "pid": "P569",
+      "qid": "Q7261162"
+    }
+  },
+  {
+    "id": 333,
+    "text": "Милли Элизабет Хьюз-Фулфорд родился в 1945 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q446243",
+    "fact": {
+      "subject": "Милли Элизабет Хьюз-Фулфорд",
+      "predicate": "дата рождения",
+      "object": "1945",
+      "pid": "P569",
+      "qid": "Q446243"
+    }
+  },
+  {
+    "id": 153,
+    "text": "Cui Yi родился в 0940 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q18118419",
+    "fact": {
+      "subject": "Cui Yi",
+      "predicate": "дата рождения",
+      "object": "0940",
+      "pid": "P569",
+      "qid": "Q18118419"
+    }
+  },
+  {
+    "id": 169,
+    "text": "Geoffrey Rippon умер в 1467 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q5534874",
+    "fact": {
+      "subject": "Geoffrey Rippon",
+      "predicate": "дата смерти",
+      "object": "1467",
+      "pid": "P570",
+      "qid": "Q5534874"
+    }
+  },
+  {
+    "id": 223,
+    "text": "Кудря, Иван Данилович умер в 0256 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q4244559",
+    "fact": {
+      "subject": "Кудря, Иван Данилович",
+      "predicate": "дата смерти",
+      "object": "0256",
+      "pid": "P570",
+      "qid": "Q4244559"
+    }
+  },
+  {
+    "id": 42,
+    "text": "Алан Ховард умер в 1993 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q4706895",
+    "fact": {
+      "subject": "Алан Ховард",
+      "predicate": "дата смерти",
+      "object": "1993",
+      "pid": "P570",
+      "qid": "Q4706895"
+    }
+  },
+  {
+    "id": 221,
+    "text": "Isaac Kimber родился в 0968 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16852379",
+    "fact": {
+      "subject": "Isaac Kimber",
+      "predicate": "дата рождения",
+      "object": "0968",
+      "pid": "P569",
+      "qid": "Q16852379"
+    }
+  },
+  {
+    "id": 212,
+    "text": "Роберт Геррик умер в 1302 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q2393651",
+    "fact": {
+      "subject": "Роберт Геррик",
+      "predicate": "дата смерти",
+      "object": "1302",
+      "pid": "P570",
+      "qid": "Q2393651"
+    }
+  },
+  {
+    "id": 195,
+    "text": "Самуил Яковлевич Маршак умер в 1718 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q435584",
+    "fact": {
+      "subject": "Самуил Яковлевич Маршак",
+      "predicate": "дата смерти",
+      "object": "1718",
+      "pid": "P570",
+      "qid": "Q435584"
+    }
+  },
+  {
+    "id": 340,
+    "text": "Arthur Horace Penn умер в 1960 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q4799122",
+    "fact": {
+      "subject": "Arthur Horace Penn",
+      "predicate": "дата смерти",
+      "object": "1960",
+      "pid": "P570",
+      "qid": "Q4799122"
+    }
+  },
+  {
+    "id": 261,
+    "text": "Charles Desbassayns умер в 1136 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q2958883",
+    "fact": {
+      "subject": "Charles Desbassayns",
+      "predicate": "дата смерти",
+      "object": "1136",
+      "pid": "P570",
+      "qid": "Q2958883"
+    }
+  },
+  {
+    "id": 249,
+    "text": "Джек Адамс родился в 1990 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3157111",
+    "fact": {
+      "subject": "Джек Адамс",
+      "predicate": "дата рождения",
+      "object": "1990",
+      "pid": "P569",
+      "qid": "Q3157111"
+    }
+  },
+  {
+    "id": 174,
+    "text": "Richard van Orley родился в 0677 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q2124452",
+    "fact": {
+      "subject": "Richard van Orley",
+      "predicate": "дата рождения",
+      "object": "0677",
+      "pid": "P569",
+      "qid": "Q2124452"
+    }
+  },
+  {
+    "id": 255,
+    "text": "Moses Austin умер в 1515 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1747208",
+    "fact": {
+      "subject": "Moses Austin",
+      "predicate": "дата смерти",
+      "object": "1515",
+      "pid": "P570",
+      "qid": "Q1747208"
+    }
+  },
+  {
+    "id": 82,
+    "text": "Ferenc Ősz родился в 1930 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q1473614",
+    "fact": {
+      "subject": "Ferenc Ősz",
+      "predicate": "дата рождения",
+      "object": "1930",
+      "pid": "P569",
+      "qid": "Q1473614"
+    }
+  },
+  {
+    "id": 165,
+    "text": "Хала Седки родился в 0643 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q4116135",
+    "fact": {
+      "subject": "Хала Седки",
+      "predicate": "дата рождения",
+      "object": "0643",
+      "pid": "P569",
+      "qid": "Q4116135"
+    }
+  },
+  {
+    "id": 1,
+    "text": "Kim Saeng-min родился в 1973 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q12587634",
+    "fact": {
+      "subject": "Kim Saeng-min",
+      "predicate": "дата рождения",
+      "object": "1973",
+      "pid": "P569",
+      "qid": "Q12587634"
+    }
+  },
+  {
+    "id": 184,
+    "text": "Yulian Kvasnytsia родился в 0517 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q17371851",
+    "fact": {
+      "subject": "Yulian Kvasnytsia",
+      "predicate": "дата рождения",
+      "object": "0517",
+      "pid": "P569",
+      "qid": "Q17371851"
+    }
+  },
+  {
+    "id": 178,
+    "text": "Lassi Yrjölä родился в 1754 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16991447",
+    "fact": {
+      "subject": "Lassi Yrjölä",
+      "predicate": "дата рождения",
+      "object": "1754",
+      "pid": "P569",
+      "qid": "Q16991447"
+    }
+  },
+  {
+    "id": 185,
+    "text": "Йосеф Дельмедиго умер в 0215 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q969675",
+    "fact": {
+      "subject": "Йосеф Дельмедиго",
+      "predicate": "дата смерти",
+      "object": "0215",
+      "pid": "P570",
+      "qid": "Q969675"
+    }
+  },
+  {
+    "id": 270,
+    "text": "Carl Friedrich Löbbecke умер в 1912 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1038033",
+    "fact": {
+      "subject": "Carl Friedrich Löbbecke",
+      "predicate": "дата смерти",
+      "object": "1912",
+      "pid": "P570",
+      "qid": "Q1038033"
+    }
+  },
+  {
+    "id": 228,
+    "text": "Оуян Сяофан родился в 1186 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q7113163",
+    "fact": {
+      "subject": "Оуян Сяофан",
+      "predicate": "дата рождения",
+      "object": "1186",
+      "pid": "P569",
+      "qid": "Q7113163"
+    }
+  },
+  {
+    "id": 150,
+    "text": "Ёримаса Санада умер в 1523 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q11583411",
+    "fact": {
+      "subject": "Ёримаса Санада",
+      "predicate": "дата смерти",
+      "object": "1523",
+      "pid": "P570",
+      "qid": "Q11583411"
+    }
+  },
+  {
+    "id": 291,
+    "text": "Johan Nilsson i Skravelsjö умер в 0370 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q6010704",
+    "fact": {
+      "subject": "Johan Nilsson i Skravelsjö",
+      "predicate": "дата смерти",
+      "object": "0370",
+      "pid": "P570",
+      "qid": "Q6010704"
+    }
+  },
+  {
+    "id": 19,
+    "text": "Geoffrey Rippon умер в 1997 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q5534874",
+    "fact": {
+      "subject": "Geoffrey Rippon",
+      "predicate": "дата смерти",
+      "object": "1997",
+      "pid": "P570",
+      "qid": "Q5534874"
+    }
+  },
+  {
+    "id": 293,
+    "text": "Jill Cruwys родился в 0400 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6192785",
+    "fact": {
+      "subject": "Jill Cruwys",
+      "predicate": "дата рождения",
+      "object": "0400",
+      "pid": "P569",
+      "qid": "Q6192785"
+    }
+  },
+  {
+    "id": 197,
+    "text": "Purea родился в 1980 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q7261162",
+    "fact": {
+      "subject": "Purea",
+      "predicate": "дата рождения",
+      "object": "1980",
+      "pid": "P569",
+      "qid": "Q7261162"
+    }
+  },
+  {
+    "id": 269,
+    "text": "Ivan Kovac родился в 1727 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q12745578",
+    "fact": {
+      "subject": "Ivan Kovac",
+      "predicate": "дата рождения",
+      "object": "1727",
+      "pid": "P569",
+      "qid": "Q12745578"
+    }
+  },
+  {
+    "id": 292,
+    "text": "Гарри Джонс родился в 1921 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16065827",
+    "fact": {
+      "subject": "Гарри Джонс",
+      "predicate": "дата рождения",
+      "object": "1921",
+      "pid": "P569",
+      "qid": "Q16065827"
+    }
+  },
+  {
+    "id": 324,
+    "text": "Viggo Krüger родился в 1971 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q12009721",
+    "fact": {
+      "subject": "Viggo Krüger",
+      "predicate": "дата рождения",
+      "object": "1971",
+      "pid": "P569",
+      "qid": "Q12009721"
+    }
+  },
+  {
+    "id": 176,
+    "text": "Джан Джакомо Тривульцио родился в 1684 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q742997",
+    "fact": {
+      "subject": "Джан Джакомо Тривульцио",
+      "predicate": "дата рождения",
+      "object": "1684",
+      "pid": "P569",
+      "qid": "Q742997"
+    }
+  },
+  {
+    "id": 282,
+    "text": "Ricardo Javier Acosta родился в 0549 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6108250",
+    "fact": {
+      "subject": "Ricardo Javier Acosta",
+      "predicate": "дата рождения",
+      "object": "0549",
+      "pid": "P569",
+      "qid": "Q6108250"
+    }
+  },
+  {
+    "id": 140,
+    "text": "Achille Marozzo родился в 1484 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3604396",
+    "fact": {
+      "subject": "Achille Marozzo",
+      "predicate": "дата рождения",
+      "object": "1484",
+      "pid": "P569",
+      "qid": "Q3604396"
+    }
+  },
+  {
+    "id": 137,
+    "text": "Mike Warnke родился в 1946 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6849216",
+    "fact": {
+      "subject": "Mike Warnke",
+      "predicate": "дата рождения",
+      "object": "1946",
+      "pid": "P569",
+      "qid": "Q6849216"
+    }
+  },
+  {
+    "id": 151,
+    "text": "Kim Saeng-min родился в 1408 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q12587634",
+    "fact": {
+      "subject": "Kim Saeng-min",
+      "predicate": "дата рождения",
+      "object": "1408",
+      "pid": "P569",
+      "qid": "Q12587634"
+    }
+  },
+  {
+    "id": 303,
+    "text": "Пётр Канизий умер в 1597 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q44624",
+    "fact": {
+      "subject": "Пётр Канизий",
+      "predicate": "дата смерти",
+      "object": "1597",
+      "pid": "P570",
+      "qid": "Q44624"
+    }
+  },
+  {
+    "id": 243,
+    "text": "Kurt Knaak родился в 2008 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q1793731",
+    "fact": {
+      "subject": "Kurt Knaak",
+      "predicate": "дата рождения",
+      "object": "2008",
+      "pid": "P569",
+      "qid": "Q1793731"
+    }
+  },
+  {
+    "id": 39,
+    "text": "Michael Pangrazio родился в 1956 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16734089",
+    "fact": {
+      "subject": "Michael Pangrazio",
+      "predicate": "дата рождения",
+      "object": "1956",
+      "pid": "P569",
+      "qid": "Q16734089"
+    }
+  },
+  {
+    "id": 201,
+    "text": "Clary Morales родился в 1919 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q4968067",
+    "fact": {
+      "subject": "Clary Morales",
+      "predicate": "дата рождения",
+      "object": "1919",
+      "pid": "P569",
+      "qid": "Q4968067"
+    }
+  },
+  {
+    "id": 60,
+    "text": "Людвиг Эрк родился в 1807 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q108653",
+    "fact": {
+      "subject": "Людвиг Эрк",
+      "predicate": "дата рождения",
+      "object": "1807",
+      "pid": "P569",
+      "qid": "Q108653"
+    }
+  },
+  {
+    "id": 259,
+    "text": "Marquess Qing of Yan умер в 0502 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1652663",
+    "fact": {
+      "subject": "Marquess Qing of Yan",
+      "predicate": "дата смерти",
+      "object": "0502",
+      "pid": "P570",
+      "qid": "Q1652663"
+    }
+  },
+  {
+    "id": 239,
+    "text": "Moncef Ben Salem родился в 0656 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3320435",
+    "fact": {
+      "subject": "Moncef Ben Salem",
+      "predicate": "дата рождения",
+      "object": "0656",
+      "pid": "P569",
+      "qid": "Q3320435"
+    }
+  },
+  {
+    "id": 342,
+    "text": "Хуан Гаррига родился в 1963 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q2735151",
+    "fact": {
+      "subject": "Хуан Гаррига",
+      "predicate": "дата рождения",
+      "object": "1963",
+      "pid": "P569",
+      "qid": "Q2735151"
+    }
+  },
+  {
+    "id": 17,
+    "text": "Abbas Abbasov родился в 1957 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16364057",
+    "fact": {
+      "subject": "Abbas Abbasov",
+      "predicate": "дата рождения",
+      "object": "1957",
+      "pid": "P569",
+      "qid": "Q16364057"
+    }
+  },
+  {
+    "id": 24,
+    "text": "Richard van Orley родился в 1663 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q2124452",
+    "fact": {
+      "subject": "Richard van Orley",
+      "predicate": "дата рождения",
+      "object": "1663",
+      "pid": "P569",
+      "qid": "Q2124452"
+    }
+  },
+  {
+    "id": 61,
+    "text": "Ľubomir Cakev родился в 1940 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q12285440",
+    "fact": {
+      "subject": "Ľubomir Cakev",
+      "predicate": "дата рождения",
+      "object": "1940",
+      "pid": "P569",
+      "qid": "Q12285440"
+    }
+  },
+  {
+    "id": 90,
+    "text": "Вологин, Александр Дмитриевич родился в 1924 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q4123676",
+    "fact": {
+      "subject": "Вологин, Александр Дмитриевич",
+      "predicate": "дата рождения",
+      "object": "1924",
+      "pid": "P569",
+      "qid": "Q4123676"
+    }
+  },
+  {
+    "id": 284,
+    "text": "Анджей Стшелецкий родился в 0244 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q9153673",
+    "fact": {
+      "subject": "Анджей Стшелецкий",
+      "predicate": "дата рождения",
+      "object": "0244",
+      "pid": "P569",
+      "qid": "Q9153673"
+    }
+  },
+  {
+    "id": 311,
+    "text": "Анджело Фурлан родился в 1977 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q731511",
+    "fact": {
+      "subject": "Анджело Фурлан",
+      "predicate": "дата рождения",
+      "object": "1977",
+      "pid": "P569",
+      "qid": "Q731511"
+    }
+  },
+  {
+    "id": 214,
+    "text": "Курт фон Готтберг родился в 1556 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q77696",
+    "fact": {
+      "subject": "Курт фон Готтберг",
+      "predicate": "дата рождения",
+      "object": "1556",
+      "pid": "P569",
+      "qid": "Q77696"
+    }
+  },
+  {
+    "id": 350,
+    "text": "Кейти Бойл умер в 2018 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q290287",
+    "fact": {
+      "subject": "Кейти Бойл",
+      "predicate": "дата смерти",
+      "object": "2018",
+      "pid": "P570",
+      "qid": "Q290287"
+    }
+  },
+  {
+    "id": 266,
+    "text": "Джон Макнейр родился в 1251 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3180971",
+    "fact": {
+      "subject": "Джон Макнейр",
+      "predicate": "дата рождения",
+      "object": "1251",
+      "pid": "P569",
+      "qid": "Q3180971"
+    }
+  },
+  {
+    "id": 107,
+    "text": "Giuseppe Pisani умер в 1839 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q14632986",
+    "fact": {
+      "subject": "Giuseppe Pisani",
+      "predicate": "дата смерти",
+      "object": "1839",
+      "pid": "P570",
+      "qid": "Q14632986"
+    }
+  },
+  {
+    "id": 64,
+    "text": "Курт фон Готтберг родился в 1896 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q77696",
+    "fact": {
+      "subject": "Курт фон Готтберг",
+      "predicate": "дата рождения",
+      "object": "1896",
+      "pid": "P569",
+      "qid": "Q77696"
+    }
+  },
+  {
+    "id": 246,
+    "text": "Józef Petruk родился в 1581 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11731132",
+    "fact": {
+      "subject": "Józef Petruk",
+      "predicate": "дата рождения",
+      "object": "1581",
+      "pid": "P569",
+      "qid": "Q11731132"
+    }
+  },
+  {
+    "id": 87,
+    "text": "Neena Gill родился в 1956 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6986880",
+    "fact": {
+      "subject": "Neena Gill",
+      "predicate": "дата рождения",
+      "object": "1956",
+      "pid": "P569",
+      "qid": "Q6986880"
+    }
+  },
+  {
+    "id": 121,
+    "text": "Jesse McI. Carter умер в 1930 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q14629448",
+    "fact": {
+      "subject": "Jesse McI. Carter",
+      "predicate": "дата смерти",
+      "object": "1930",
+      "pid": "P570",
+      "qid": "Q14629448"
+    }
+  },
+  {
+    "id": 168,
+    "text": "Edwin R. Chess умер в 1784 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q5346758",
+    "fact": {
+      "subject": "Edwin R. Chess",
+      "predicate": "дата смерти",
+      "object": "1784",
+      "pid": "P570",
+      "qid": "Q5346758"
+    }
+  },
+  {
+    "id": 230,
+    "text": "Jesús Gil родился в 0739 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3808193",
+    "fact": {
+      "subject": "Jesús Gil",
+      "predicate": "дата рождения",
+      "object": "0739",
+      "pid": "P569",
+      "qid": "Q3808193"
+    }
+  },
+  {
+    "id": 321,
+    "text": "Joe Bacuzzi родился в 1916 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q3808633",
+    "fact": {
+      "subject": "Joe Bacuzzi",
+      "predicate": "дата рождения",
+      "object": "1916",
+      "pid": "P569",
+      "qid": "Q3808633"
+    }
+  },
+  {
+    "id": 22,
+    "text": "Jeanne Faust родился в 1968 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q1686011",
+    "fact": {
+      "subject": "Jeanne Faust",
+      "predicate": "дата рождения",
+      "object": "1968",
+      "pid": "P569",
+      "qid": "Q1686011"
+    }
+  },
+  {
+    "id": 224,
+    "text": "Ян Николай Радзивилл родился в 0708 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q2616838",
+    "fact": {
+      "subject": "Ян Николай Радзивилл",
+      "predicate": "дата рождения",
+      "object": "0708",
+      "pid": "P569",
+      "qid": "Q2616838"
+    }
+  },
+  {
+    "id": 44,
+    "text": "Ryan Strieby родился в 1985 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q7384560",
+    "fact": {
+      "subject": "Ryan Strieby",
+      "predicate": "дата рождения",
+      "object": "1985",
+      "pid": "P569",
+      "qid": "Q7384560"
+    }
+  },
+  {
+    "id": 55,
+    "text": "May Edith Evelyn Furey умер в 1962 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q16000256",
+    "fact": {
+      "subject": "May Edith Evelyn Furey",
+      "predicate": "дата смерти",
+      "object": "1962",
+      "pid": "P570",
+      "qid": "Q16000256"
+    }
+  },
+  {
+    "id": 35,
+    "text": "Йосеф Дельмедиго умер в 1655 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q969675",
+    "fact": {
+      "subject": "Йосеф Дельмедиго",
+      "predicate": "дата смерти",
+      "object": "1655",
+      "pid": "P570",
+      "qid": "Q969675"
+    }
+  },
+  {
+    "id": 337,
+    "text": "Elfriede Hammerl родился в 1945 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q1328621",
+    "fact": {
+      "subject": "Elfriede Hammerl",
+      "predicate": "дата рождения",
+      "object": "1945",
+      "pid": "P569",
+      "qid": "Q1328621"
+    }
+  },
+  {
+    "id": 136,
+    "text": "David Turnbull родился в 1794 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q5240523",
+    "fact": {
+      "subject": "David Turnbull",
+      "predicate": "дата рождения",
+      "object": "1794",
+      "pid": "P569",
+      "qid": "Q5240523"
+    }
+  },
+  {
+    "id": 313,
+    "text": "Лайлокен родился в 0501 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q6473918",
+    "fact": {
+      "subject": "Лайлокен",
+      "predicate": "дата рождения",
+      "object": "0501",
+      "pid": "P569",
+      "qid": "Q6473918"
+    }
+  },
+  {
+    "id": 63,
+    "text": "Eddie McMorran родился в 1923 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q5336305",
+    "fact": {
+      "subject": "Eddie McMorran",
+      "predicate": "дата рождения",
+      "object": "1923",
+      "pid": "P569",
+      "qid": "Q5336305"
+    }
+  },
+  {
+    "id": 338,
+    "text": "Масанори Вакамия умер в 1990 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q11616273",
+    "fact": {
+      "subject": "Масанори Вакамия",
+      "predicate": "дата смерти",
+      "object": "1990",
+      "pid": "P570",
+      "qid": "Q11616273"
+    }
+  },
+  {
+    "id": 52,
+    "text": "Kosta Spisarevski родился в 1882 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q12283812",
+    "fact": {
+      "subject": "Kosta Spisarevski",
+      "predicate": "дата рождения",
+      "object": "1882",
+      "pid": "P569",
+      "qid": "Q12283812"
+    }
+  },
+  {
+    "id": 191,
+    "text": "Федерико Зарди умер в 0479 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q3741951",
+    "fact": {
+      "subject": "Федерико Зарди",
+      "predicate": "дата смерти",
+      "object": "0479",
+      "pid": "P570",
+      "qid": "Q3741951"
+    }
+  },
+  {
+    "id": 65,
+    "text": "Bruce Pontow родился в 1952 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q991757",
+    "fact": {
+      "subject": "Bruce Pontow",
+      "predicate": "дата рождения",
+      "object": "1952",
+      "pid": "P569",
+      "qid": "Q991757"
+    }
+  },
+  {
+    "id": 79,
+    "text": "Ferdinand Willaert умер в 1938 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q18508163",
+    "fact": {
+      "subject": "Ferdinand Willaert",
+      "predicate": "дата смерти",
+      "object": "1938",
+      "pid": "P570",
+      "qid": "Q18508163"
+    }
+  },
+  {
+    "id": 69,
+    "text": "Хироси Такэути родился в 1965 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11598925",
+    "fact": {
+      "subject": "Хироси Такэути",
+      "predicate": "дата рождения",
+      "object": "1965",
+      "pid": "P569",
+      "qid": "Q11598925"
+    }
+  },
+  {
+    "id": 336,
+    "text": "Alfred Flury родился в 1934 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q1669850",
+    "fact": {
+      "subject": "Alfred Flury",
+      "predicate": "дата рождения",
+      "object": "1934",
+      "pid": "P569",
+      "qid": "Q1669850"
+    }
+  },
+  {
+    "id": 91,
+    "text": "Robert Lado умер в 1995 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q3435637",
+    "fact": {
+      "subject": "Robert Lado",
+      "predicate": "дата смерти",
+      "object": "1995",
+      "pid": "P570",
+      "qid": "Q3435637"
+    }
+  },
+  {
+    "id": 327,
+    "text": "Filip Kapisoda умер в 2010 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q5448489",
+    "fact": {
+      "subject": "Filip Kapisoda",
+      "predicate": "дата смерти",
+      "object": "2010",
+      "pid": "P570",
+      "qid": "Q5448489"
+    }
+  },
+  {
+    "id": 317,
+    "text": "Abraham Blaugrund родился в 1930 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q6535509",
+    "fact": {
+      "subject": "Abraham Blaugrund",
+      "predicate": "дата рождения",
+      "object": "1930",
+      "pid": "P569",
+      "qid": "Q6535509"
+    }
+  },
+  {
+    "id": 103,
+    "text": "Ludwik Mycielski родился в 1799 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11763868",
+    "fact": {
+      "subject": "Ludwik Mycielski",
+      "predicate": "дата рождения",
+      "object": "1799",
+      "pid": "P569",
+      "qid": "Q11763868"
+    }
+  },
+  {
+    "id": 36,
+    "text": "Maja Rydman родился в 1911 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q17383407",
+    "fact": {
+      "subject": "Maja Rydman",
+      "predicate": "дата рождения",
+      "object": "1911",
+      "pid": "P569",
+      "qid": "Q17383407"
+    }
+  },
+  {
+    "id": 147,
+    "text": "Jaan Toomla родился в 1929 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q12364920",
+    "fact": {
+      "subject": "Jaan Toomla",
+      "predicate": "дата рождения",
+      "object": "1929",
+      "pid": "P569",
+      "qid": "Q12364920"
+    }
+  },
+  {
+    "id": 67,
+    "text": "Ёдзо Мори родился в 1810 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11540316",
+    "fact": {
+      "subject": "Ёдзо Мори",
+      "predicate": "дата рождения",
+      "object": "1810",
+      "pid": "P569",
+      "qid": "Q11540316"
+    }
+  },
+  {
+    "id": 4,
+    "text": "Archibald Bodkin родился в 1862 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q4786222",
+    "fact": {
+      "subject": "Archibald Bodkin",
+      "predicate": "дата рождения",
+      "object": "1862",
+      "pid": "P569",
+      "qid": "Q4786222"
+    }
+  },
+  {
+    "id": 80,
+    "text": "Jesús Gil родился в 1951 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q3808193",
+    "fact": {
+      "subject": "Jesús Gil",
+      "predicate": "дата рождения",
+      "object": "1951",
+      "pid": "P569",
+      "qid": "Q3808193"
+    }
+  },
+  {
+    "id": 231,
+    "text": "Anton Breznik умер в 0889 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q12784756",
+    "fact": {
+      "subject": "Anton Breznik",
+      "predicate": "дата смерти",
+      "object": "0889",
+      "pid": "P570",
+      "qid": "Q12784756"
+    }
+  },
+  {
+    "id": 187,
+    "text": "Масадзи Одзэки родился в 1926 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11465524",
+    "fact": {
+      "subject": "Масадзи Одзэки",
+      "predicate": "дата рождения",
+      "object": "1926",
+      "pid": "P569",
+      "qid": "Q11465524"
+    }
+  },
+  {
+    "id": 210,
+    "text": "Людвиг Эрк родился в 1213 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q108653",
+    "fact": {
+      "subject": "Людвиг Эрк",
+      "predicate": "дата рождения",
+      "object": "1213",
+      "pid": "P569",
+      "qid": "Q108653"
+    }
+  },
+  {
+    "id": 346,
+    "text": "David van Hoogstraten родился в 1658 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q2218570",
+    "fact": {
+      "subject": "David van Hoogstraten",
+      "predicate": "дата рождения",
+      "object": "1658",
+      "pid": "P569",
+      "qid": "Q2218570"
+    }
+  },
+  {
+    "id": 12,
+    "text": "Хисанори Нииро родился в 1807 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11503912",
+    "fact": {
+      "subject": "Хисанори Нииро",
+      "predicate": "дата рождения",
+      "object": "1807",
+      "pid": "P569",
+      "qid": "Q11503912"
+    }
+  },
+  {
+    "id": 132,
+    "text": "Ricardo Javier Acosta родился в 1992 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6108250",
+    "fact": {
+      "subject": "Ricardo Javier Acosta",
+      "predicate": "дата рождения",
+      "object": "1992",
+      "pid": "P569",
+      "qid": "Q6108250"
+    }
+  },
+  {
+    "id": 237,
+    "text": "Neena Gill родился в 1804 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6986880",
+    "fact": {
+      "subject": "Neena Gill",
+      "predicate": "дата рождения",
+      "object": "1804",
+      "pid": "P569",
+      "qid": "Q6986880"
+    }
+  },
+  {
+    "id": 130,
+    "text": "Дэвид Блэк родился в 1980 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16220890",
+    "fact": {
+      "subject": "Дэвид Блэк",
+      "predicate": "дата рождения",
+      "object": "1980",
+      "pid": "P569",
+      "qid": "Q16220890"
+    }
+  },
+  {
+    "id": 13,
+    "text": "Элиза Дрэббен родился в 1996 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q5829533",
+    "fact": {
+      "subject": "Элиза Дрэббен",
+      "predicate": "дата рождения",
+      "object": "1996",
+      "pid": "P569",
+      "qid": "Q5829533"
+    }
+  },
+  {
+    "id": 281,
+    "text": "Карим Зекри родился в 1500 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6370664",
+    "fact": {
+      "subject": "Карим Зекри",
+      "predicate": "дата рождения",
+      "object": "1500",
+      "pid": "P569",
+      "qid": "Q6370664"
+    }
+  },
+  {
+    "id": 328,
+    "text": "Ахмед Азимов родился в 1977 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q340554",
+    "fact": {
+      "subject": "Ахмед Азимов",
+      "predicate": "дата рождения",
+      "object": "1977",
+      "pid": "P569",
+      "qid": "Q340554"
+    }
+  },
+  {
+    "id": 332,
+    "text": "Andrea Pažoutová родился в 1979 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q18193454",
+    "fact": {
+      "subject": "Andrea Pažoutová",
+      "predicate": "дата рождения",
+      "object": "1979",
+      "pid": "P569",
+      "qid": "Q18193454"
+    }
+  },
+  {
+    "id": 50,
+    "text": "Neiman Gracie родился в 1988 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q15987803",
+    "fact": {
+      "subject": "Neiman Gracie",
+      "predicate": "дата рождения",
+      "object": "1988",
+      "pid": "P569",
+      "qid": "Q15987803"
+    }
+  },
+  {
+    "id": 3,
+    "text": "Cui Yi родился в 1432 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q18118419",
+    "fact": {
+      "subject": "Cui Yi",
+      "predicate": "дата рождения",
+      "object": "1432",
+      "pid": "P569",
+      "qid": "Q18118419"
+    }
+  },
+  {
+    "id": 229,
+    "text": "Ferdinand Willaert умер в 1047 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q18508163",
+    "fact": {
+      "subject": "Ferdinand Willaert",
+      "predicate": "дата смерти",
+      "object": "1047",
+      "pid": "P570",
+      "qid": "Q18508163"
+    }
+  },
+  {
+    "id": 193,
+    "text": "Renzo Titone умер в 0264 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q19358034",
+    "fact": {
+      "subject": "Renzo Titone",
+      "predicate": "дата смерти",
+      "object": "0264",
+      "pid": "P570",
+      "qid": "Q19358034"
+    }
+  },
+  {
+    "id": 23,
+    "text": "Oscar Tornegård умер в 1960 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q6213695",
+    "fact": {
+      "subject": "Oscar Tornegård",
+      "predicate": "дата смерти",
+      "object": "1960",
+      "pid": "P570",
+      "qid": "Q6213695"
+    }
+  },
+  {
+    "id": 25,
+    "text": "Suzanne Lohnes-Croft родился в 1953 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q15294036",
+    "fact": {
+      "subject": "Suzanne Lohnes-Croft",
+      "predicate": "дата рождения",
+      "object": "1953",
+      "pid": "P569",
+      "qid": "Q15294036"
+    }
+  },
+  {
+    "id": 274,
+    "text": "Rolf Kreuder умер в 0508 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q1730074",
+    "fact": {
+      "subject": "Rolf Kreuder",
+      "predicate": "дата смерти",
+      "object": "0508",
+      "pid": "P570",
+      "qid": "Q1730074"
+    }
+  },
+  {
+    "id": 144,
+    "text": "Walter Lienert родился в 1925 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q7965454",
+    "fact": {
+      "subject": "Walter Lienert",
+      "predicate": "дата рождения",
+      "object": "1925",
+      "pid": "P569",
+      "qid": "Q7965454"
+    }
+  },
+  {
+    "id": 81,
+    "text": "Anton Breznik умер в 1944 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q12784756",
+    "fact": {
+      "subject": "Anton Breznik",
+      "predicate": "дата смерти",
+      "object": "1944",
+      "pid": "P570",
+      "qid": "Q12784756"
+    }
+  },
+  {
+    "id": 189,
+    "text": "Michael Pangrazio родился в 0287 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16734089",
+    "fact": {
+      "subject": "Michael Pangrazio",
+      "predicate": "дата рождения",
+      "object": "0287",
+      "pid": "P569",
+      "qid": "Q16734089"
+    }
+  },
+  {
+    "id": 285,
+    "text": "Ngor Sovann родился в 0285 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16733324",
+    "fact": {
+      "subject": "Ngor Sovann",
+      "predicate": "дата рождения",
+      "object": "0285",
+      "pid": "P569",
+      "qid": "Q16733324"
+    }
+  },
+  {
+    "id": 215,
+    "text": "Bruce Pontow родился в 0255 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q991757",
+    "fact": {
+      "subject": "Bruce Pontow",
+      "predicate": "дата рождения",
+      "object": "0255",
+      "pid": "P569",
+      "qid": "Q991757"
+    }
+  },
+  {
+    "id": 78,
+    "text": "Оуян Сяофан родился в 1983 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q7113163",
+    "fact": {
+      "subject": "Оуян Сяофан",
+      "predicate": "дата рождения",
+      "object": "1983",
+      "pid": "P569",
+      "qid": "Q7113163"
+    }
+  },
+  {
+    "id": 32,
+    "text": "Emad Noor родился в 1990 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q5368781",
+    "fact": {
+      "subject": "Emad Noor",
+      "predicate": "дата рождения",
+      "object": "1990",
+      "pid": "P569",
+      "qid": "Q5368781"
+    }
+  },
+  {
+    "id": 302,
+    "text": "Barry Chevannes умер в 2010 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q809014",
+    "fact": {
+      "subject": "Barry Chevannes",
+      "predicate": "дата смерти",
+      "object": "2010",
+      "pid": "P570",
+      "qid": "Q809014"
+    }
+  },
+  {
+    "id": 225,
+    "text": "Эрих Кунц родился в 0956 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q78855",
+    "fact": {
+      "subject": "Эрих Кунц",
+      "predicate": "дата рождения",
+      "object": "0956",
+      "pid": "P569",
+      "qid": "Q78855"
+    }
+  },
+  {
+    "id": 253,
+    "text": "Ludwik Mycielski родился в 0603 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11763868",
+    "fact": {
+      "subject": "Ludwik Mycielski",
+      "predicate": "дата рождения",
+      "object": "0603",
+      "pid": "P569",
+      "qid": "Q11763868"
+    }
+  },
+  {
+    "id": 194,
+    "text": "Ryan Strieby родился в 1659 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q7384560",
+    "fact": {
+      "subject": "Ryan Strieby",
+      "predicate": "дата рождения",
+      "object": "1659",
+      "pid": "P569",
+      "qid": "Q7384560"
+    }
+  },
+  {
+    "id": 309,
+    "text": "David M. Stewart умер в 1984 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q3018337",
+    "fact": {
+      "subject": "David M. Stewart",
+      "predicate": "дата смерти",
+      "object": "1984",
+      "pid": "P570",
+      "qid": "Q3018337"
+    }
+  },
+  {
+    "id": 258,
+    "text": "Vincenzo Acquaviva умер в 1801 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q7932201",
+    "fact": {
+      "subject": "Vincenzo Acquaviva",
+      "predicate": "дата смерти",
+      "object": "1801",
+      "pid": "P570",
+      "qid": "Q7932201"
+    }
+  },
+  {
+    "id": 290,
+    "text": "Achille Marozzo родился в 1106 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3604396",
+    "fact": {
+      "subject": "Achille Marozzo",
+      "predicate": "дата рождения",
+      "object": "1106",
+      "pid": "P569",
+      "qid": "Q3604396"
+    }
+  },
+  {
+    "id": 242,
+    "text": "Нобору Окитани родился в 0630 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q11553031",
+    "fact": {
+      "subject": "Нобору Окитани",
+      "predicate": "дата рождения",
+      "object": "0630",
+      "pid": "P569",
+      "qid": "Q11553031"
+    }
+  },
+  {
+    "id": 26,
+    "text": "Джан Джакомо Тривульцио родился в 1440 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q742997",
+    "fact": {
+      "subject": "Джан Джакомо Тривульцио",
+      "predicate": "дата рождения",
+      "object": "1440",
+      "pid": "P569",
+      "qid": "Q742997"
+    }
+  },
+  {
+    "id": 245,
+    "text": "Nico Carstens умер в 1704 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q7028768",
+    "fact": {
+      "subject": "Nico Carstens",
+      "predicate": "дата смерти",
+      "object": "1704",
+      "pid": "P570",
+      "qid": "Q7028768"
+    }
+  },
+  {
+    "id": 30,
+    "text": "Серик Нуртаевич Баймаганбетов родился в 1958 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q461089",
+    "fact": {
+      "subject": "Серик Нуртаевич Баймаганбетов",
+      "predicate": "дата рождения",
+      "object": "1958",
+      "pid": "P569",
+      "qid": "Q461089"
+    }
+  },
+  {
+    "id": 251,
+    "text": "Курбаков, Константин Иванович родился в 1782 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q4247852",
+    "fact": {
+      "subject": "Курбаков, Константин Иванович",
+      "predicate": "дата рождения",
+      "object": "1782",
+      "pid": "P569",
+      "qid": "Q4247852"
+    }
+  },
+  {
+    "id": 131,
+    "text": "Карим Зекри родился в 1985 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6370664",
+    "fact": {
+      "subject": "Карим Зекри",
+      "predicate": "дата рождения",
+      "object": "1985",
+      "pid": "P569",
+      "qid": "Q6370664"
+    }
+  },
+  {
+    "id": 335,
+    "text": "Henry Settegast родился в 1853 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q1607254",
+    "fact": {
+      "subject": "Henry Settegast",
+      "predicate": "дата рождения",
+      "object": "1853",
+      "pid": "P569",
+      "qid": "Q1607254"
+    }
+  },
+  {
+    "id": 278,
+    "text": "Joan d'Alòs i Serradora умер в 1319 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q11928002",
+    "fact": {
+      "subject": "Joan d'Alòs i Serradora",
+      "predicate": "дата смерти",
+      "object": "1319",
+      "pid": "P570",
+      "qid": "Q11928002"
+    }
+  },
+  {
+    "id": 28,
+    "text": "Lassi Yrjölä родился в 1994 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q16991447",
+    "fact": {
+      "subject": "Lassi Yrjölä",
+      "predicate": "дата рождения",
+      "object": "1994",
+      "pid": "P569",
+      "qid": "Q16991447"
+    }
+  },
+  {
+    "id": 205,
+    "text": "May Edith Evelyn Furey умер в 1532 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q16000256",
+    "fact": {
+      "subject": "May Edith Evelyn Furey",
+      "predicate": "дата смерти",
+      "object": "1532",
+      "pid": "P570",
+      "qid": "Q16000256"
+    }
+  },
+  {
+    "id": 149,
+    "text": "Curtis Mosby родился в 1888 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q5195835",
+    "fact": {
+      "subject": "Curtis Mosby",
+      "predicate": "дата рождения",
+      "object": "1888",
+      "pid": "P569",
+      "qid": "Q5195835"
+    }
+  },
+  {
+    "id": 343,
+    "text": "Лу Бега родился в 1975 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q60268",
+    "fact": {
+      "subject": "Лу Бега",
+      "predicate": "дата рождения",
+      "object": "1975",
+      "pid": "P569",
+      "qid": "Q60268"
+    }
+  },
+  {
+    "id": 16,
+    "text": "Юэ Оотэра родился в 1986 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11434519",
+    "fact": {
+      "subject": "Юэ Оотэра",
+      "predicate": "дата рождения",
+      "object": "1986",
+      "pid": "P569",
+      "qid": "Q11434519"
+    }
+  },
+  {
+    "id": 347,
+    "text": "Nick Eyre умер в 2018 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата смерти",
+    "source": "wikidata_nei",
+    "qid": "Q14951448",
+    "fact": {
+      "subject": "Nick Eyre",
+      "predicate": "дата смерти",
+      "object": "2018",
+      "pid": "P570",
+      "qid": "Q14951448"
+    }
+  },
+  {
+    "id": 289,
+    "text": "Скрыпин, Роман Андреевич родился в 1640 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q4422607",
+    "fact": {
+      "subject": "Скрыпин, Роман Андреевич",
+      "predicate": "дата рождения",
+      "object": "1640",
+      "pid": "P569",
+      "qid": "Q4422607"
+    }
+  },
+  {
+    "id": 297,
+    "text": "Jaan Toomla родился в 1970 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q12364920",
+    "fact": {
+      "subject": "Jaan Toomla",
+      "predicate": "дата рождения",
+      "object": "1970",
+      "pid": "P569",
+      "qid": "Q12364920"
+    }
+  },
+  {
+    "id": 58,
+    "text": "Земомысл Иновроцлавский родился в 1240 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q2033309",
+    "fact": {
+      "subject": "Земомысл Иновроцлавский",
+      "predicate": "дата рождения",
+      "object": "1240",
+      "pid": "P569",
+      "qid": "Q2033309"
+    }
+  },
+  {
+    "id": 325,
+    "text": "Клеомен Афинский родился в 0100 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q1774136",
+    "fact": {
+      "subject": "Клеомен Афинский",
+      "predicate": "дата рождения",
+      "object": "0100",
+      "pid": "P569",
+      "qid": "Q1774136"
+    }
+  },
+  {
+    "id": 158,
+    "text": "Ginette Javaux родился в 1369 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q3106728",
+    "fact": {
+      "subject": "Ginette Javaux",
+      "predicate": "дата рождения",
+      "object": "1369",
+      "pid": "P569",
+      "qid": "Q3106728"
+    }
+  },
+  {
+    "id": 280,
+    "text": "Дэвид Блэк родился в 0866 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q16220890",
+    "fact": {
+      "subject": "Дэвид Блэк",
+      "predicate": "дата рождения",
+      "object": "0866",
+      "pid": "P569",
+      "qid": "Q16220890"
+    }
+  },
+  {
+    "id": 329,
+    "text": "Georg Johann Strobel родился в 1735 году",
+    "ground_truth": "NOT_ENOUGH_INFO",
+    "category": "дата рождения",
+    "source": "wikidata_nei",
+    "qid": "Q1506146",
+    "fact": {
+      "subject": "Georg Johann Strobel",
+      "predicate": "дата рождения",
+      "object": "1735",
+      "pid": "P569",
+      "qid": "Q1506146"
+    }
+  },
+  {
+    "id": 37,
+    "text": "Масадзи Одзэки родился в 1909 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q11465524",
+    "fact": {
+      "subject": "Масадзи Одзэки",
+      "predicate": "дата рождения",
+      "object": "1909",
+      "pid": "P569",
+      "qid": "Q11465524"
+    }
+  },
+  {
+    "id": 164,
+    "text": "Frank Ebenezer Hill родился в 0159 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q5486412",
+    "fact": {
+      "subject": "Frank Ebenezer Hill",
+      "predicate": "дата рождения",
+      "object": "0159",
+      "pid": "P569",
+      "qid": "Q5486412"
+    }
+  },
+  {
+    "id": 119,
+    "text": "Ivan Kovac родился в 1937 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q12745578",
+    "fact": {
+      "subject": "Ivan Kovac",
+      "predicate": "дата рождения",
+      "object": "1937",
+      "pid": "P569",
+      "qid": "Q12745578"
+    }
+  },
+  {
+    "id": 222,
+    "text": "Кэидзюн Миябэ родился в 1391 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q6884170",
+    "fact": {
+      "subject": "Кэидзюн Миябэ",
+      "predicate": "дата рождения",
+      "object": "1391",
+      "pid": "P569",
+      "qid": "Q6884170"
+    }
+  },
+  {
+    "id": 146,
+    "text": "Leone Traverso умер в 1968 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1113945",
+    "fact": {
+      "subject": "Leone Traverso",
+      "predicate": "дата смерти",
+      "object": "1968",
+      "pid": "P570",
+      "qid": "Q1113945"
+    }
+  },
+  {
+    "id": 120,
+    "text": "Carl Friedrich Löbbecke умер в 1839 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q1038033",
+    "fact": {
+      "subject": "Carl Friedrich Löbbecke",
+      "predicate": "дата смерти",
+      "object": "1839",
+      "pid": "P570",
+      "qid": "Q1038033"
+    }
+  },
+  {
+    "id": 208,
+    "text": "Земомысл Иновроцлавский родился в 1034 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q2033309",
+    "fact": {
+      "subject": "Земомысл Иновроцлавский",
+      "predicate": "дата рождения",
+      "object": "1034",
+      "pid": "P569",
+      "qid": "Q2033309"
+    }
+  },
+  {
+    "id": 203,
+    "text": "Aapeli Halonen родился в 1891 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q18702120",
+    "fact": {
+      "subject": "Aapeli Halonen",
+      "predicate": "дата рождения",
+      "object": "1891",
+      "pid": "P569",
+      "qid": "Q18702120"
+    }
+  },
+  {
+    "id": 213,
+    "text": "Eddie McMorran родился в 1914 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q5336305",
+    "fact": {
+      "subject": "Eddie McMorran",
+      "predicate": "дата рождения",
+      "object": "1914",
+      "pid": "P569",
+      "qid": "Q5336305"
+    }
+  },
+  {
+    "id": 48,
+    "text": "Date Masamichi умер в 1590 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q10856428",
+    "fact": {
+      "subject": "Date Masamichi",
+      "predicate": "дата смерти",
+      "object": "1590",
+      "pid": "P570",
+      "qid": "Q10856428"
+    }
+  },
+  {
+    "id": 73,
+    "text": "Кудря, Иван Данилович умер в 1942 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата смерти",
+    "source": "wikidata",
+    "qid": "Q4244559",
+    "fact": {
+      "subject": "Кудря, Иван Данилович",
+      "predicate": "дата смерти",
+      "object": "1942",
+      "pid": "P570",
+      "qid": "Q4244559"
+    }
+  },
+  {
+    "id": 264,
+    "text": "Roy Judkins родился в 1333 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q7373015",
+    "fact": {
+      "subject": "Roy Judkins",
+      "predicate": "дата рождения",
+      "object": "1333",
+      "pid": "P569",
+      "qid": "Q7373015"
+    }
+  },
+  {
+    "id": 288,
+    "text": "Arthur Berger умер в 0515 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q708636",
+    "fact": {
+      "subject": "Arthur Berger",
+      "predicate": "дата смерти",
+      "object": "0515",
+      "pid": "P570",
+      "qid": "Q708636"
+    }
+  },
+  {
+    "id": 70,
+    "text": "Korn Chatikavanij родился в 1964 году",
+    "ground_truth": "SUPPORTED",
+    "category": "дата рождения",
+    "source": "wikidata",
+    "qid": "Q6407151",
+    "fact": {
+      "subject": "Korn Chatikavanij",
+      "predicate": "дата рождения",
+      "object": "1964",
+      "pid": "P569",
+      "qid": "Q6407151"
+    }
+  },
+  {
+    "id": 173,
+    "text": "Oscar Tornegård умер в 0101 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q6213695",
+    "fact": {
+      "subject": "Oscar Tornegård",
+      "predicate": "дата смерти",
+      "object": "0101",
+      "pid": "P570",
+      "qid": "Q6213695"
+    }
+  },
+  {
+    "id": 159,
+    "text": "Valentin von Streffleur умер в 1125 году",
+    "ground_truth": "REFUTED",
+    "category": "дата смерти",
+    "source": "wikidata_refuted",
+    "qid": "Q18612926",
+    "fact": {
+      "subject": "Valentin von Streffleur",
+      "predicate": "дата смерти",
+      "object": "1125",
+      "pid": "P570",
+      "qid": "Q18612926"
+    }
+  },
+  {
+    "id": 175,
+    "text": "Suzanne Lohnes-Croft родился в 1710 году",
+    "ground_truth": "REFUTED",
+    "category": "дата рождения",
+    "source": "wikidata_refuted",
+    "qid": "Q15294036",
+    "fact": {
+      "subject": "Suzanne Lohnes-Croft",
+      "predicate": "дата рождения",
+      "object": "1710",
+      "pid": "P569",
+      "qid": "Q15294036"
+    }
+  }
+]
