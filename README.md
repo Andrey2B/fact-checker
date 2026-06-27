@@ -22,6 +22,7 @@
 docker-compose up -d    # Neo4j
 ollama serve            # LLM
 python main.py          # API
+'''
 
 ## Основной пайплайн
 
