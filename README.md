@@ -22,3 +22,43 @@
 docker-compose up -d    # Neo4j
 ollama serve            # LLM
 python main.py          # API
+
+## Основной пайплайн
+
+```mermaid
+flowchart TD
+    A([Входной текст]) --> B[ClaimDecomposer\nLLM Llama 3.1 8B]
+    B --> C[Атомарные триплеты\nsubject · predicate · object]
+    C --> D[EvidenceMatcher\nNeo4j Cypher]
+    D --> E[(Граф знаний\nNeo4j\n~1200 узлов)]
+    E --> D
+    D --> F[Доказательства\nmax 7 фактов]
+    F --> G[VerdictGenerator\nLLM Llama 3.1 8B]
+    G --> H[Вердикт по триплету\nSUPPORTED · REFUTED\nNEI · CONFLICTING]
+    H --> I{Ещё\nтриплеты?}
+    I -->|Да| D
+    I -->|Нет| J[Агрегация\nвердиктов]
+    J --> K([VerificationReport\noverall_verdict\nconfidence · summary])
+```
+
+## Каскадный пайплайн
+
+```mermaid
+flowchart TD
+    A([Входной текст]) --> B{Субъект\nв графе?}
+
+    B -->|ДА| C[VerificationPipeline\nосновной пайплайн\n~9 с]
+    B -->|НЕТ| D[MiniVerifier\n~5M параметров\n~0.01 с]
+
+    D --> E{confidence\n> 0.90?}
+
+    E -->|ДА\nNEI| F([NOT_ENOUGH_INFO\nБыстрый ответ\n0.01 с])
+    E -->|НЕТ| C
+
+    C --> G([VerificationReport\nSUPPORTED · REFUTED · NEI\n~9 с])
+
+    style F fill:#f9f,stroke:#333
+    style G fill:#9f9,stroke:#333
+    style D fill:#bbf,stroke:#333
+    style C fill:#fdb,stroke:#333
+```
